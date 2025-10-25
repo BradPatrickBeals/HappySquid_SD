@@ -1770,3 +1770,1067 @@ Recommended: 560.81 or latest driver available
 [2025.10.25-11.04.01:869][752]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.25-11.04.01:869][752]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
 [2025.10.25-11.04.09:519][935]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.05.08:837][112]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.05.49:865][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1074.828369
+[2025.10.25-11.05.50:905][239]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.05.50:905][239]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1075.495117, Update Interval: 356.436646
+[2025.10.25-11.06.07:222][287]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.06.46:601][405]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.07.14:002][487]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.11.00:149][ 43]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.11.40:545][130]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2025.10.25-11.11.40:547][130]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.052
+[2025.10.25-11.11.40:549][130]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-11.11.40:549][130]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-11.11.40:579][130]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1
+[2025.10.25-11.11.40:579][130]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacter_Auto12618EB1949C1B2A307E5A0A6AB3C2C9B.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto1.uasset'
+[2025.10.25-11.11.40:581][130]LogFileHelpers: Auto-saving content packages took 0.034
+[2025.10.25-11.11.56:838][429]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1441.808838
+[2025.10.25-11.11.57:021][443]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.11.57:021][443]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1441.977661, Update Interval: 305.332184
+[2025.10.25-11.14.39:463][189]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.15.18:531][306]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.15.42:319][377]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.16.15:693][477]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.16.58:558][605]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.17.14:092][652]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.17.24:968][684]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1769.946411
+[2025.10.25-11.17.25:972][687]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.17.25:972][688]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1770.615479, Update Interval: 304.929352
+[2025.10.25-11.17.26:606][689]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.18.05:836][807]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.18.45:699][926]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.18.57:409][961]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.19.14:606][ 13]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.20.02:109][155]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.20.43:478][279]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.22.46:335][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2025.10.25-11.22.46:337][933]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.063
+[2025.10.25-11.22.46:338][933]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-11.22.46:415][933]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.25-11.22.46:415][933]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-11.22.46:447][933]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2
+[2025.10.25-11.22.46:447][933]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacter_Auto2FBB41CF742B823FFB05BEA9062B350D7.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto2.uasset'
+[2025.10.25-11.22.46:449][933]LogFileHelpers: Auto-saving content packages took 0.112
+[2025.10.25-11.23.01:515][979]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2106.495117
+[2025.10.25-11.23.02:509][982]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.23.02:509][982]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2107.162842, Update Interval: 354.440735
+[2025.10.25-11.23.32:293][360]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.25-11.24.34:696][467]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.25-11.24.37:245][594]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2025.10.25-11.24.38:378][666]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2025.10.25-11.25.00:022][280]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.10.25-11.25.01:247][351]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-11.25.01:296][351]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-11.25.01:333][351]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.25-11.25.01:333][351]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-11.25.01:364][351]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.25-11.25.01:366][351]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacterBC9DA3774FC43CED35D2F6B14D9E9439.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.25-11.25.01:385][351]LogFileHelpers: InternalPromptForCheckoutAndSave took 137.871 ms (total: 1.48 sec)
+[2025.10.25-11.25.01:444][351]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-11.25.01:444][351]LogContentValidation: Enabled validators:
+[2025.10.25-11.25.01:444][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-11.25.01:444][351]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-11.25.01:444][351]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-11.25.01:444][351]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-11.25.01:444][351]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-11.25.01:445][351]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-11.25.01:445][351]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.25-11.25.02:777][420]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-11.25.02:789][420]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-11.25.02:789][420]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-11.25.02:790][420]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 996 us (total: 37.530 ms)
+[2025.10.25-11.25.02:790][420]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-11.25.02:790][420]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-11.25.02:799][420]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.25-11.25.02:801][420]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.827 ms (total: 7.844 ms)
+[2025.10.25-11.25.02:801][420]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011123s)
+[2025.10.25-11.25.02:801][420]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.011164s)
+[2025.10.25-11.25.02:843][420]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2025.10.25-11.25.02:846][420]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.25-11.25.02:882][420]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.25-11.25.02:882][420]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-11.25.02:882][420]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-11.25.02:882][420]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.25-11.25.02:884][420]LogWorldPartition: Display: WorldPartition initialize took 2.724 ms (total: 1.24 sec)
+[2025.10.25-11.25.02:884][420]LogPlayLevel: PIE: World Init took: (0.038406s)
+[2025.10.25-11.25.02:886][420]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2025.10.25-11.25.02:886][420]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-11.25.02:886][420]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-11.25.02:886][420]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-11.25.02:886][420]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-11.25.02:886][420]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-11.25.02:886][420]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-11.25.02:886][420]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-11.25.02:886][420]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-11.25.02:886][420]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-11.25.02:886][420]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-11.25.02:886][420]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-11.25.02:890][420]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-11.25.02:957][420]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G430 Gaming Headset)
+[2025.10.25-11.25.02:958][420]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-11.25.02:958][420]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-11.25.02:958][420]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-11.25.02:958][420]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2025.10.25-11.25.02:958][420]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2025.10.25-11.25.02:961][420]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2025.10.25-11.25.02:961][420]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2025.10.25-11.25.02:961][420]LogInit: FAudioDevice initialized with ID 5.
+[2025.10.25-11.25.02:961][420]LogAudio: Display: Audio Device (ID: 5) registered with world 'Lvl_ThirdPerson'.
+[2025.10.25-11.25.02:961][420]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.25-11.25.02:966][420]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.25-11.25.02:971][420]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.25-12.25.02
+[2025.10.25-11.25.02:971][420]LogWorld: Bringing up level for play took: 0.004169
+[2025.10.25-11.25.02:974][420]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2025.10.25-11.25.03:055][420]PIE: Server logged in
+[2025.10.25-11.25.03:058][420]PIE: Play in editor total start time 0.269 seconds.
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: ================================================
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: Total job queries 336, among them cache hits 6 (1.79%), DDC hits 247 (73.51%), Duplicates 81 (24.11%)
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: Tracking 249 distinct input hashes that result in 194 distinct outputs (77.91%)
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: RAM used: 1.26 MiB of 409.60 MiB budget. Usage: 0.31%
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: Shaders Compiled: 2
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: Jobs assigned 2, completed 2 (100%)
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: Time job spent in pending queue: average 0.12 s, longest 0.12 s
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: Job execution time: average 4.51 s, max 4.51 s
+[2025.10.25-11.25.15:442][790]LogShaderCompilers: Display: Job life time (pending + execution): average 4.63 s, max 4.63
+[2025.10.25-11.25.15:450][790]LogShaderCompilers: Display: Shader code size: total 7.77 KiB, numShaders 2, average 3.885 KiB, min 2.93 KiB, max 4.84 KiB
+[2025.10.25-11.25.15:450][790]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 4.63 s
+[2025.10.25-11.25.15:450][790]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.25-11.25.15:450][790]LogShaderCompilers: Display: Jobs were issued in 2 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Average processing rate: 0.43 jobs/sec
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Total thread time: 3.137 s
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Total thread preprocess time: 7.025 s
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Percentage time preprocessing: 223.95%
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Effective parallelization: 0.68 (times faster than compiling all shaders on one thread). Compare with number of workers: 3 - 0.225706
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    1 times, average 1.61 sec, max 1.61 sec, min 1.61 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                             FDebugViewModeVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 51.37% of total time (compiled    1 times, average 1.61 sec, max 1.61 sec, min 1.61 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 48.63% of total time (compiled    1 times, average 1.53 sec, max 1.53 sec, min 1.53 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                        FCloudRenderViewPS110 - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display:                                             FDebugViewModeVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: === Material stats ===
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Materials Translated:    141
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Material Total Translate Time: 1.39 s
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Material Translation Only: 0.85 s (62%)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: Material Cache Hits: 19 (13%)
+[2025.10.25-11.25.15:451][790]LogShaderCompilers: Display: ================================================
+[2025.10.25-11.25.33:053][478]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2025.10.25-11.25.34:477][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.25.34:477][528]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-11.25.34:477][528]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-11.25.34:479][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.25.34:479][528]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.25-11.25.34:480][528]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-11.25.34:489][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.25.34:529][528]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-11.25.34:529][528]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 5
+[2025.10.25-11.25.34:529][528]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=4
+[2025.10.25-11.25.34:532][528]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5, StreamState=2
+[2025.10.25-11.25.34:542][528]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.25.34:599][528]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.10.25-11.25.34:633][529]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2025.10.25-11.25.56:155][512]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.26.12:344][792]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-11.26.12:355][792]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-11.26.12:355][792]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-11.26.12:356][792]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.159 ms (total: 38.689 ms)
+[2025.10.25-11.26.12:356][792]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-11.26.12:356][792]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-11.26.12:366][792]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.25-11.26.12:369][792]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.265 ms (total: 10.110 ms)
+[2025.10.25-11.26.12:369][792]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011638s)
+[2025.10.25-11.26.12:369][792]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.011687s)
+[2025.10.25-11.26.12:416][792]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2025.10.25-11.26.12:418][792]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.25-11.26.12:421][792]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.25-11.26.12:422][792]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-11.26.12:422][792]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-11.26.12:422][792]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.25-11.26.12:425][792]LogWorldPartition: Display: WorldPartition initialize took 3.037 ms (total: 1.24 sec)
+[2025.10.25-11.26.12:425][792]LogPlayLevel: PIE: World Init took: (0.006833s)
+[2025.10.25-11.26.12:427][792]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2025.10.25-11.26.12:427][792]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-11.26.12:427][792]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-11.26.12:427][792]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-11.26.12:427][792]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-11.26.12:427][792]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-11.26.12:427][792]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-11.26.12:427][792]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-11.26.12:427][792]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-11.26.12:427][792]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-11.26.12:427][792]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-11.26.12:427][792]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-11.26.12:430][792]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-11.26.12:491][792]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G430 Gaming Headset)
+[2025.10.25-11.26.12:491][792]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-11.26.12:491][792]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-11.26.12:491][792]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-11.26.12:492][792]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2025.10.25-11.26.12:492][792]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2025.10.25-11.26.12:495][792]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2025.10.25-11.26.12:495][792]LogInit: FAudioDevice initialized with ID 6.
+[2025.10.25-11.26.12:495][792]LogAudio: Display: Audio Device (ID: 6) registered with world 'Lvl_ThirdPerson'.
+[2025.10.25-11.26.12:495][792]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2025.10.25-11.26.12:495][792]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.25-11.26.12:500][792]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.25-11.26.12:504][792]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.25-12.26.12
+[2025.10.25-11.26.12:504][792]LogWorld: Bringing up level for play took: 0.004289
+[2025.10.25-11.26.12:507][792]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2025.10.25-11.26.12:514][792]PIE: Server logged in
+[2025.10.25-11.26.12:517][792]PIE: Play in editor total start time 0.162 seconds.
+[2025.10.25-11.26.13:215][816]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_PrintString', from offset 10
+[2025.10.25-11.26.13:215][816]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:InpActEvt_Melee_K2Node_InputActionEvent_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter
+
+[2025.10.25-11.26.15:569][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Hello
+[2025.10.25-11.26.15:614][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.26.15:614][816]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-11.26.15:615][816]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-11.26.15:616][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.26.15:616][816]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.25-11.26.15:618][816]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-11.26.15:626][816]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.26.15:672][816]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.26.15:673][816]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 6
+[2025.10.25-11.26.15:673][816]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=4
+[2025.10.25-11.26.15:678][816]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6, StreamState=2
+[2025.10.25-11.26.15:690][816]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.10.25-11.26.15:721][817]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2025.10.25-11.26.21:491][208]Cmd: hello
+[2025.10.25-11.26.28:554][601]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter without an associated node. The blueprint breakpoint has been removed
+[2025.10.25-11.26.28:554][601]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter without an associated node. The blueprint breakpoint has been removed
+[2025.10.25-11.28.47:243][120]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.29.54:913][254]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2519.894043
+[2025.10.25-11.29.55:205][258]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.29.55:205][258]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2520.107910, Update Interval: 344.809113
+[2025.10.25-11.31.31:937][653]LogBlueprint: Error: [AssetLog] D:\Unity\Projects\DinkGameJam2025\DinkGameJam2025\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2025.10.25-11.31.32:107][653]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2025.10.25-11.31.38:991][187]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2025.10.25-11.32.00:898][800]LogStreaming: Display: FlushAsyncLoading(691): 1 QueuedPackages, 0 AsyncPackages
+[2025.10.25-11.32.21:022][869]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-11.32.21:033][869]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-11.32.21:033][869]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-11.32.21:034][869]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.039 ms (total: 39.729 ms)
+[2025.10.25-11.32.21:035][869]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2025.10.25-11.32.21:229][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2025.10.25-11.32.21:233][869]LogPlayLevel: PlayLevel: Blueprint regeneration took 198 ms (1 blueprints)
+[2025.10.25-11.32.21:233][869]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-11.32.21:242][869]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.25-11.32.21:244][869]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.974 ms (total: 12.084 ms)
+[2025.10.25-11.32.21:244][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010888s)
+[2025.10.25-11.32.21:244][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.010934s)
+[2025.10.25-11.32.21:284][869]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2025.10.25-11.32.21:286][869]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.25-11.32.21:288][869]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.25-11.32.21:288][869]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-11.32.21:289][869]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-11.32.21:289][869]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.25-11.32.21:291][869]LogWorldPartition: Display: WorldPartition initialize took 2.500 ms (total: 1.25 sec)
+[2025.10.25-11.32.21:291][869]LogPlayLevel: PIE: World Init took: (0.005419s)
+[2025.10.25-11.32.21:292][869]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2025.10.25-11.32.21:292][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-11.32.21:292][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-11.32.21:293][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-11.32.21:293][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-11.32.21:293][869]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-11.32.21:293][869]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-11.32.21:293][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-11.32.21:293][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-11.32.21:293][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-11.32.21:293][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-11.32.21:293][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-11.32.21:296][869]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-11.32.21:364][869]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G430 Gaming Headset)
+[2025.10.25-11.32.21:365][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-11.32.21:365][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-11.32.21:365][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-11.32.21:365][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=7
+[2025.10.25-11.32.21:365][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=7
+[2025.10.25-11.32.21:369][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=7
+[2025.10.25-11.32.21:369][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=7
+[2025.10.25-11.32.21:369][869]LogInit: FAudioDevice initialized with ID 7.
+[2025.10.25-11.32.21:369][869]LogAudio: Display: Audio Device (ID: 7) registered with world 'Lvl_ThirdPerson'.
+[2025.10.25-11.32.21:369][869]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.25-11.32.21:374][869]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.25-11.32.21:378][869]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.25-12.32.21
+[2025.10.25-11.32.21:379][869]LogWorld: Bringing up level for play took: 0.004609
+[2025.10.25-11.32.21:411][869]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2025.10.25-11.32.21:550][869]PIE: Server logged in
+[2025.10.25-11.32.21:553][869]PIE: Play in editor total start time 0.52 seconds.
+[2025.10.25-11.32.23:728][933]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2025.10.25-11.32.37:048][387]LogSlate: Took 0.020743 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2025.10.25-11.32.41:298][388]LogSlate: Window 'Import Content' being destroyed
+[2025.10.25-11.32.41:376][388]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.41:430][388]LogInterchangeEngine: [Pending] Importing - Operation was canceled by user.
+[2025.10.25-11.32.41:430][388]LogInterchangeEngine: [Success] Import Canceled
+[2025.10.25-11.32.42:957][389]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.43:352][389]LogStaticMesh: Adjacency [0.07s], tris: 2024, UVs 2
+[2025.10.25-11.32.43:389][389]LogStaticMesh: Clustering [0.04s]. Ratio: 1.000000
+[2025.10.25-11.32.43:405][389]LogStaticMesh: Leaves [0.02s]
+[2025.10.25-11.32.43:654][389]LogStaticMesh: Reduce [0.25s]
+[2025.10.25-11.32.43:674][389]LogStaticMesh: Fallback [0.02s], num tris: 256
+[2025.10.25-11.32.43:692][389]LogStaticMesh: ConstrainClusters:
+[2025.10.25-11.32.43:692][389]LogStaticMesh:   Input: 31 Clusters, 3914 Triangles and 2909 Vertices
+[2025.10.25-11.32.43:692][389]LogStaticMesh:   Output without splits: 31 Clusters, 3914 Triangles and 2989 Vertices
+[2025.10.25-11.32.43:692][389]LogStaticMesh:   Output with splits: 31 Clusters, 3914 Triangles and 2989 Vertices
+[2025.10.25-11.32.43:692][389]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 31, Slow Path Clusters: 0, 1 Material: 31, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.25-11.32.43:699][389]LogStaticMesh: WritePages:
+[2025.10.25-11.32.43:699][389]LogStaticMesh:   Root: GPU size: 31724 bytes. 1 Pages. 31724.000 bytes per page (96.814% utilization).
+[2025.10.25-11.32.43:699][389]LogStaticMesh:   Streaming: GPU size: 18532 bytes. 1 Pages (1 with relative encoding). 18532.000 bytes per page (14.139% utilization).
+[2025.10.25-11.32.43:699][389]LogStaticMesh:   Page data disk size: 41236 bytes. Fixup data size: 272 bytes.
+[2025.10.25-11.32.43:708][389]LogStaticMesh:   Total GPU size: 50256 bytes, Total disk size: 41508 bytes.
+[2025.10.25-11.32.43:708][389]LogStaticMesh: Encode [0.03s]
+[2025.10.25-11.32.43:708][389]LogStaticMesh: NaniteBuild [0.62s]
+[2025.10.25-11.32.43:862][389]LogStaticMesh: Built static mesh [1.82s] /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube
+[2025.10.25-11.32.45:657][389]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.25-11.32.45:657][389]LogInterchangeEngine: [Success] Import Done
+[2025.10.25-11.32.45:823][390]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.46:226][390]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.25-11.32.46:226][390]LogInterchangeEngine: [Success] Import Done
+[2025.10.25-11.32.46:422][391]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.46:622][391]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.25-11.32.46:622][391]LogInterchangeEngine: [Success] Import Done
+[2025.10.25-11.32.46:757][392]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.46:915][392]LogStaticMesh: Adjacency [0.00s], tris: 8192, UVs 1
+[2025.10.25-11.32.46:959][392]LogStaticMesh: Clustering [0.04s]. Ratio: 1.015625
+[2025.10.25-11.32.46:961][392]LogStaticMesh: Leaves [0.00s]
+[2025.10.25-11.32.47:609][392]LogStaticMesh: Reduce [0.65s]
+[2025.10.25-11.32.47:627][392]LogStaticMesh: Fallback [0.02s], num tris: 368
+[2025.10.25-11.32.47:641][392]LogStaticMesh: ConstrainClusters:
+[2025.10.25-11.32.47:641][392]LogStaticMesh:   Input: 137 Clusters, 17260 Triangles and 11996 Vertices
+[2025.10.25-11.32.47:641][392]LogStaticMesh:   Output without splits: 137 Clusters, 17260 Triangles and 12376 Vertices
+[2025.10.25-11.32.47:641][392]LogStaticMesh:   Output with splits: 137 Clusters, 17260 Triangles and 12376 Vertices
+[2025.10.25-11.32.47:641][392]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 137, Slow Path Clusters: 0, 1 Material: 137, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.25-11.32.47:646][392]LogStaticMesh: WritePages:
+[2025.10.25-11.32.47:646][392]LogStaticMesh:   Root: GPU size: 32444 bytes. 1 Pages. 32444.000 bytes per page (99.011% utilization).
+[2025.10.25-11.32.47:646][392]LogStaticMesh:   Streaming: GPU size: 132080 bytes. 2 Pages (2 with relative encoding). 66040.000 bytes per page (50.385% utilization).
+[2025.10.25-11.32.47:646][392]LogStaticMesh:   Page data disk size: 137848 bytes. Fixup data size: 672 bytes.
+[2025.10.25-11.32.47:646][392]LogStaticMesh:   Total GPU size: 164524 bytes, Total disk size: 138520 bytes.
+[2025.10.25-11.32.47:646][392]LogStaticMesh: Encode [0.02s]
+[2025.10.25-11.32.47:646][392]LogStaticMesh: NaniteBuild [0.73s]
+[2025.10.25-11.32.47:674][392]LogStaticMesh: Built static mesh [0.95s] /Game/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.SM_TargetBaseMesh
+[2025.10.25-11.32.48:164][392]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.25-11.32.48:164][392]LogInterchangeEngine: [Success] Import Done
+[2025.10.25-11.32.48:271][393]LogStaticMesh: Adjacency [0.00s], tris: 12, UVs 1
+[2025.10.25-11.32.48:272][393]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.10.25-11.32.48:272][393]LogStaticMesh: Leaves [0.00s]
+[2025.10.25-11.32.48:272][393]LogStaticMesh: Reduce [0.00s]
+[2025.10.25-11.32.48:272][393]LogStaticMesh: Fallback [0.00s], num tris: 12
+[2025.10.25-11.32.48:272][393]LogStaticMesh: ConstrainClusters:
+[2025.10.25-11.32.48:272][393]LogStaticMesh:   Input: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.10.25-11.32.48:272][393]LogStaticMesh:   Output without splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.10.25-11.32.48:272][393]LogStaticMesh:   Output with splits: 1 Clusters, 12 Triangles and 24 Vertices
+[2025.10.25-11.32.48:272][393]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.25-11.32.48:272][393]LogStaticMesh: WritePages:
+[2025.10.25-11.32.48:272][393]LogStaticMesh:   Root: GPU size: 428 bytes. 1 Pages. 428.000 bytes per page (1.306% utilization).
+[2025.10.25-11.32.48:272][393]LogStaticMesh:   Streaming: 0 bytes.
+[2025.10.25-11.32.48:272][393]LogStaticMesh:   Page data disk size: 588 bytes. Fixup data size: 24 bytes.
+[2025.10.25-11.32.48:272][393]LogStaticMesh:   Total GPU size: 428 bytes, Total disk size: 612 bytes.
+[2025.10.25-11.32.48:272][393]LogStaticMesh: Encode [0.00s]
+[2025.10.25-11.32.48:272][393]LogStaticMesh: NaniteBuild [0.00s]
+[2025.10.25-11.32.48:274][393]LogStaticMesh: Built static mesh [0.01s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.SM_Door
+[2025.10.25-11.32.48:307][393]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.49:542][393]LogMeshUtilities: Finished distance field build in 1.2s - 42x42x42 sparse distance field, 0.1Mb total, 0.0Mb always loaded, 96% occupied, 0 triangles, SM_Door
+[2025.10.25-11.32.49:657][393]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.25-11.32.49:657][393]LogInterchangeEngine: [Success] Import Done
+[2025.10.25-11.32.49:803][394]LogStaticMesh: Adjacency [0.00s], tris: 536, UVs 1
+[2025.10.25-11.32.49:804][394]LogStaticMesh: Clustering [0.00s]. Ratio: 1.600000
+[2025.10.25-11.32.49:805][394]LogStaticMesh: Leaves [0.00s]
+[2025.10.25-11.32.49:822][394]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.49:833][394]LogStaticMesh: Reduce [0.03s]
+[2025.10.25-11.32.49:834][394]LogStaticMesh: Fallback [0.00s], num tris: 252
+[2025.10.25-11.32.49:835][394]LogStaticMesh: ConstrainClusters:
+[2025.10.25-11.32.49:835][394]LogStaticMesh:   Input: 14 Clusters, 1292 Triangles and 1086 Vertices
+[2025.10.25-11.32.49:835][394]LogStaticMesh:   Output without splits: 14 Clusters, 1292 Triangles and 1086 Vertices
+[2025.10.25-11.32.49:835][394]LogStaticMesh:   Output with splits: 14 Clusters, 1292 Triangles and 1086 Vertices
+[2025.10.25-11.32.49:835][394]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 14, Slow Path Clusters: 0, 1 Material: 14, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.25-11.32.49:835][394]LogStaticMesh: WritePages:
+[2025.10.25-11.32.49:835][394]LogStaticMesh:   Root: GPU size: 15520 bytes. 1 Pages. 15520.000 bytes per page (47.363% utilization).
+[2025.10.25-11.32.49:835][394]LogStaticMesh:   Streaming: 0 bytes.
+[2025.10.25-11.32.49:835][394]LogStaticMesh:   Page data disk size: 12056 bytes. Fixup data size: 72 bytes.
+[2025.10.25-11.32.49:835][394]LogStaticMesh:   Total GPU size: 15520 bytes, Total disk size: 12128 bytes.
+[2025.10.25-11.32.49:835][394]LogStaticMesh: Encode [0.00s]
+[2025.10.25-11.32.49:835][394]LogStaticMesh: NaniteBuild [0.03s]
+[2025.10.25-11.32.49:842][394]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.SM_DoorFrame_Corner
+[2025.10.25-11.32.50:555][394]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.25-11.32.50:555][394]LogInterchangeEngine: [Success] Import Done
+[2025.10.25-11.32.50:559][394]LogStaticMesh: Warning: The difference between RenderData Bounds (Origin=X=0.000 Y=-0.000 Z=-0.000, BoxExtent=(X=100.000 Y=100.001 Z=100.000), SphereRadius=(249.427216)) and MeshDescription Bounds (Origin=X=0.000 Y=0.000 Z=0.000, BoxExtent=(X=100.000 Y=100.000 Z=100.000), SphereRadius=(173.205081)) is significative for StaticMesh /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.SM_DoorFrame_Corner
+[2025.10.25-11.32.50:642][395]LogStaticMesh: Adjacency [0.00s], tris: 36, UVs 1
+[2025.10.25-11.32.50:642][395]LogStaticMesh: Clustering [0.00s]. Ratio: 1.000000
+[2025.10.25-11.32.50:642][395]LogStaticMesh: Leaves [0.00s]
+[2025.10.25-11.32.50:642][395]LogStaticMesh: Reduce [0.00s]
+[2025.10.25-11.32.50:643][395]LogStaticMesh: Fallback [0.00s], num tris: 36
+[2025.10.25-11.32.50:643][395]LogStaticMesh: ConstrainClusters:
+[2025.10.25-11.32.50:643][395]LogStaticMesh:   Input: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.10.25-11.32.50:643][395]LogStaticMesh:   Output without splits: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.10.25-11.32.50:643][395]LogStaticMesh:   Output with splits: 1 Clusters, 36 Triangles and 48 Vertices
+[2025.10.25-11.32.50:643][395]LogStaticMesh: Material Stats - Unique Materials: 1, Fast Path Clusters: 1, Slow Path Clusters: 0, 1 Material: 1, 2 Materials: 0, 3 Materials: 0, At Least 4 Materials: 0
+[2025.10.25-11.32.50:643][395]LogStaticMesh: WritePages:
+[2025.10.25-11.32.50:643][395]LogStaticMesh:   Root: GPU size: 720 bytes. 1 Pages. 720.000 bytes per page (2.197% utilization).
+[2025.10.25-11.32.50:643][395]LogStaticMesh:   Streaming: 0 bytes.
+[2025.10.25-11.32.50:643][395]LogStaticMesh:   Page data disk size: 884 bytes. Fixup data size: 24 bytes.
+[2025.10.25-11.32.50:643][395]LogStaticMesh:   Total GPU size: 720 bytes, Total disk size: 908 bytes.
+[2025.10.25-11.32.50:643][395]LogStaticMesh: Encode [0.00s]
+[2025.10.25-11.32.50:643][395]LogStaticMesh: NaniteBuild [0.00s]
+[2025.10.25-11.32.50:647][395]LogStaticMesh: Built static mesh [0.02s] /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.SM_DoorFrame_Edge
+[2025.10.25-11.32.50:673][395]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.51:126][395]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.25-11.32.51:126][395]LogInterchangeEngine: [Success] Import Done
+[2025.10.25-11.32.51:429][396]LogStaticMesh: Built static mesh [0.00s] /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.SM_CircularBand
+[2025.10.25-11.32.51:457][396]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.51:521][396]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.25-11.32.51:521][396]LogInterchangeEngine: [Success] Import Done
+[2025.10.25-11.32.51:690][397]LogInterchangeEngine: [Pending] Importing
+[2025.10.25-11.32.51:711][397]LogStaticMesh: Built static mesh [0.06s] /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.SM_CircularGlow
+[2025.10.25-11.32.51:783][397]LogInterchangeEngine: [Pending] Importing - Operation completed.
+[2025.10.25-11.32.51:783][397]LogInterchangeEngine: [Success] Import Done
+[2025.10.25-11.32.52:625][398]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-11.32.52:712][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/SM_ChamferCube] ([1] browsable assets)...
+[2025.10.25-11.32.52:820][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Meshes/SM_ChamferCube.SM_ChamferCube]
+[2025.10.25-11.32.52:821][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/SM_ChamferCube]
+[2025.10.25-11.32.53:131][398]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_ChamferCube
+[2025.10.25-11.32.53:134][398]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SM_ChamferCubeD9099FD24FA0947FA48217941BD25456.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Meshes/SM_ChamferCube.uasset'
+[2025.10.25-11.32.53:142][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/SM_Cylinder] ([1] browsable assets)...
+[2025.10.25-11.32.53:176][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Meshes/SM_Cylinder.SM_Cylinder]
+[2025.10.25-11.32.53:176][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/SM_Cylinder]
+[2025.10.25-11.32.53:176][398]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/LevelPrototyping/Meshes/SM_Cylinder" FILE="../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset" SILENT=true
+[2025.10.25-11.32.53:257][398]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_Cylinder
+[2025.10.25-11.32.53:259][398]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SM_Cylinder81B9DC864535C0BD08031C8C08F20A8A.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Meshes/SM_Cylinder.uasset'
+[2025.10.25-11.32.53:264][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Meshes/SM_QuarterCylinder] ([1] browsable assets)...
+[2025.10.25-11.32.53:288][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Meshes/SM_QuarterCylinder.SM_QuarterCylinder]
+[2025.10.25-11.32.53:288][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Meshes/SM_QuarterCylinder]
+[2025.10.25-11.32.53:304][398]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Meshes/SM_QuarterCylinder
+[2025.10.25-11.32.53:306][398]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SM_QuarterCylinder3D973B18464373D3E819979CD23075AC.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.uasset'
+[2025.10.25-11.32.53:308][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh] ([1] browsable assets)...
+[2025.10.25-11.32.53:331][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.SM_TargetBaseMesh]
+[2025.10.25-11.32.53:331][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh]
+[2025.10.25-11.32.53:366][398]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh
+[2025.10.25-11.32.53:367][398]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SM_TargetBaseMesh1D2EA31445B602F439643191469BD247.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.uasset'
+[2025.10.25-11.32.53:369][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door] ([1] browsable assets)...
+[2025.10.25-11.32.53:391][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.SM_Door]
+[2025.10.25-11.32.53:391][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door]
+[2025.10.25-11.32.53:396][398]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door
+[2025.10.25-11.32.53:398][398]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SM_DoorBBBA46994853A66AF4E3A0A358023CF3.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.uasset'
+[2025.10.25-11.32.53:400][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner] ([1] browsable assets)...
+[2025.10.25-11.32.53:422][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.SM_DoorFrame_Corner]
+[2025.10.25-11.32.53:423][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner]
+[2025.10.25-11.32.53:429][398]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner
+[2025.10.25-11.32.53:431][398]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SM_DoorFrame_Corner6C78222447C95C5172DB4C920F188BB0.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.uasset'
+[2025.10.25-11.32.53:433][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge] ([1] browsable assets)...
+[2025.10.25-11.32.53:456][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.SM_DoorFrame_Edge]
+[2025.10.25-11.32.53:456][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge]
+[2025.10.25-11.32.53:461][398]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge
+[2025.10.25-11.32.53:462][398]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SM_DoorFrame_Edge506D16524E4C7DBC6597E895D49651F7.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge.uasset'
+[2025.10.25-11.32.53:465][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand] ([1] browsable assets)...
+[2025.10.25-11.32.53:562][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.SM_CircularBand]
+[2025.10.25-11.32.53:562][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand]
+[2025.10.25-11.32.53:568][398]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand
+[2025.10.25-11.32.53:569][398]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SM_CircularBandD6DD06AB439BF7D1243F199F81C8E027.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.uasset'
+[2025.10.25-11.32.53:572][398]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow] ([1] browsable assets)...
+[2025.10.25-11.32.53:607][398]OBJ SavePackage:     Rendered thumbnail for [StaticMesh /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.SM_CircularGlow]
+[2025.10.25-11.32.53:607][398]OBJ SavePackage: Finished generating thumbnails for package [/Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow]
+[2025.10.25-11.32.53:612][398]LogSavePackage: Moving output files for package: /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow
+[2025.10.25-11.32.53:614][398]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SM_CircularGlowC2092C9A4BF51D9F53C4CEBD782E2C15.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.uasset'
+[2025.10.25-11.32.53:616][398]LogFileHelpers: InternalPromptForCheckoutAndSave took 992.078 ms (total: 2.47 sec)
+[2025.10.25-11.32.54:018][399]LogContentValidation: Display: Starting to validate 9 assets
+[2025.10.25-11.32.54:019][399]LogContentValidation: Enabled validators:
+[2025.10.25-11.32.54:019][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-11.32.54:019][399]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-11.32.54:019][399]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-11.32.54:019][399]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-11.32.54:081][399]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-11.32.54:081][399]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-11.32.54:081][399]AssetCheck: /Game/LevelPrototyping/Meshes/SM_ChamferCube Validating asset
+[2025.10.25-11.32.54:081][399]AssetCheck: /Game/LevelPrototyping/Meshes/SM_Cylinder Validating asset
+[2025.10.25-11.32.54:081][399]AssetCheck: /Game/LevelPrototyping/Meshes/SM_QuarterCylinder Validating asset
+[2025.10.25-11.32.54:081][399]AssetCheck: /Game/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh Validating asset
+[2025.10.25-11.32.54:081][399]AssetCheck: /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door Validating asset
+[2025.10.25-11.32.54:081][399]AssetCheck: /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner Validating asset
+[2025.10.25-11.32.54:081][399]AssetCheck: /Game/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Edge Validating asset
+[2025.10.25-11.32.54:081][399]AssetCheck: /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand Validating asset
+[2025.10.25-11.32.54:081][399]AssetCheck: /Game/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow Validating asset
+[2025.10.25-11.32.56:642][427]AssetReimport: Reimported asset SM_ChamferCube from D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Meshes/SM_ChamferCube.fbx.
+[2025.10.25-11.32.56:642][427]AssetReimport: Reimported asset SM_Cylinder from D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Meshes/SM_Cylinder.fbx.
+[2025.10.25-11.32.56:642][427]AssetReimport: Reimported asset SM_QuarterCylinder from D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Meshes/SM_QuarterCylinder.fbx.
+[2025.10.25-11.32.56:642][427]AssetReimport: Reimported asset SM_TargetBaseMesh from D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/Target/Assets/SM_TargetBaseMesh.fbx.
+[2025.10.25-11.32.56:642][427]AssetReimport: Reimported asset SM_Door from D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_Door.fbx.
+[2025.10.25-11.32.56:642][427]AssetReimport: Reimported asset SM_DoorFrame_Corner from D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Corner.fbx.
+[2025.10.25-11.32.56:642][427]AssetReimport: Reimported asset SM_DoorFrame_Edge from D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/Door/Assets/Meshes/SM_DoorFrame_Strt.fbx.
+[2025.10.25-11.32.56:642][427]AssetReimport: Reimported asset SM_CircularBand from D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularBand.fbx.
+[2025.10.25-11.32.56:642][427]AssetReimport: Reimported asset SM_CircularGlow from D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/LevelPrototyping/Interactable/JumpPad/Assets/Meshes/SM_CircularGlow.fbx.
+[2025.10.25-11.33.09:715][ 93]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=7
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: ================================================
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Total job queries 360, among them cache hits 13 (3.61%), DDC hits 257 (71.39%), Duplicates 81 (22.50%)
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Tracking 266 distinct input hashes that result in 206 distinct outputs (77.44%)
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: RAM used: 1.29 MiB of 409.60 MiB budget. Usage: 0.31%
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Shaders Compiled: 9
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100%)
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Average time worker was idle: 184.62 s
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Time job spent in pending queue: average 2.87 s, longest 7.14 s
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Job execution time: average 3.88 s, max 6.64 s
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Job life time (pending + execution): average 6.75 s, max 9.26
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Shader code size: total 38.414 KiB, numShaders 9, average 4.268 KiB, min 436 B, max 11.305 KiB
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.03 s
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.00%
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Average processing rate: 0.64 jobs/sec
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Total thread time: 19.235 s
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Total thread preprocess time: 7.784 s
+[2025.10.25-11.34.15:667][775]LogShaderCompilers: Display: Percentage time preprocessing: 40.47%
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: Effective parallelization: 1.37 (times faster than compiling all shaders on one thread). Compare with number of workers: 3 - 0.457115
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 2.52 sec, max 3.62 sec, min 1.53 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                                  FHitProxyPS (compiled    2 times, average 2.16 sec, max 2.36 sec, min 1.95 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                                  FHitProxyVS (compiled    2 times, average 1.88 sec, max 2.19 sec, min 1.57 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    2 times, average 1.80 sec, max 1.99 sec, min 1.61 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 39.33% of total time (compiled    3 times, average 2.52 sec, max 3.62 sec, min 1.53 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                                  FHitProxyPS - 22.44% of total time (compiled    2 times, average 2.16 sec, max 2.36 sec, min 1.95 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                                  FHitProxyVS - 19.52% of total time (compiled    2 times, average 1.88 sec, max 2.19 sec, min 1.57 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.70% of total time (compiled    2 times, average 1.80 sec, max 1.99 sec, min 1.61 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display:                                 FLandscapePhysicalMaterialVS - 0.00% of total time (compiled    0 times, average 0.00 sec, max 0.00 sec, min 0.00 sec)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: === Material stats ===
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: Materials Translated:    144
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: Material Total Translate Time: 1.50 s
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: Material Translation Only: 0.94 s (63%)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: Material DDC Serialization Only: 0.01 s (1%)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: Material Cache Hits: 19 (13%)
+[2025.10.25-11.34.15:668][775]LogShaderCompilers: Display: ================================================
+[2025.10.25-11.35.56:574][ 90]LogUObjectHash: Compacting FUObjectHashTables data took   2.25ms
+[2025.10.25-11.36.24:095][324]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2909.071777
+[2025.10.25-11.36.24:289][333]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.36.24:289][333]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2909.241943, Update Interval: 305.870544
+[2025.10.25-11.36.54:354][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.36.54:354][608]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-11.36.54:355][608]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-11.36.54:356][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.36.54:356][608]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.25-11.36.54:358][608]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-11.36.54:366][608]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-11.36.54:406][608]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-11.36.54:406][608]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 7
+[2025.10.25-11.36.54:407][608]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=4
+[2025.10.25-11.36.54:745][608]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=7, StreamState=2
+[2025.10.25-11.36.54:802][608]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2025.10.25-11.36.54:859][609]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2025.10.25-11.37.15:628][ 14]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.10.25-11.39.38:199][180]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2025.10.25-11.39.38:286][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31_Auto3
+[2025.10.25-11.39.38:286][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/UYSRPQ5SOYIFVLEQINPH31_Auto342D14D6F4071D06CE9400C95D3341B33.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31_Auto3.uasset'
+[2025.10.25-11.39.38:303][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE_Auto3
+[2025.10.25-11.39.38:303][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/2U2IE6JXO1320Q32RJQKSE_Auto311DAB5FE4B3D4DB947F803BBD9C68ECC.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE_Auto3.uasset'
+[2025.10.25-11.39.38:315][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O_Auto3
+[2025.10.25-11.39.38:315][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/DYUIEBPX2N8UFXT326WX2O_Auto356A1D84C4331CC6ABBBB4BA5ED8E312A.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O_Auto3.uasset'
+[2025.10.25-11.39.38:329][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I_Auto3
+[2025.10.25-11.39.38:329][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/3LNK9WKCBL4YVMWIBXQZ1I_Auto34A9AB91D4BF9D7DA8CE4AAB0EF536926.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I_Auto3.uasset'
+[2025.10.25-11.39.38:342][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE_Auto3
+[2025.10.25-11.39.38:342][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/XWEMBL7KZTNQP83W1KTMXE_Auto39B8D56F64F82291450CEA78965521AC3.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE_Auto3.uasset'
+[2025.10.25-11.39.38:349][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE_Auto3
+[2025.10.25-11.39.38:349][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/L159AMTR83MORHTF2GEOKE_Auto3B8F76E594C07D528D0D6D0B504214521.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE_Auto3.uasset'
+[2025.10.25-11.39.38:360][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA_Auto3
+[2025.10.25-11.39.38:360][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/I205QOSSXONYWBP69RVMVA_Auto377E3EDE54C39173859E8BBA22A026025.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA_Auto3.uasset'
+[2025.10.25-11.39.38:374][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX_Auto3
+[2025.10.25-11.39.38:375][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BJR5SDQDQW7QDFFPNUUMNX_Auto3DA527D5B41CDDE7CEE9531AA1F372F37.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX_Auto3.uasset'
+[2025.10.25-11.39.38:382][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD_Auto3
+[2025.10.25-11.39.38:382][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/77SUGCMHUBU5E7FP1DLCVD_Auto3183C94CD4B2EAB6822D2B5A7AC3A549F.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD_Auto3.uasset'
+[2025.10.25-11.39.38:440][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7_Auto3
+[2025.10.25-11.39.38:440][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/IHUOIGG1MW1YZY097JJ8O7_Auto3586AF7C341825236CBBF4E93A531146E.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7_Auto3.uasset'
+[2025.10.25-11.39.38:445][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I_Auto3
+[2025.10.25-11.39.38:445][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/1OONKTGJMLVBN21M6JE59I_Auto38CE49C984A518F49A4F16BBE0850185F.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I_Auto3.uasset'
+[2025.10.25-11.39.38:450][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI_Auto3
+[2025.10.25-11.39.38:450][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/FHUVUALB8C8XRJ0PY9XXTI_Auto3D28F981A4C28A0CEA89EFF81D5E5CAE2.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI_Auto3.uasset'
+[2025.10.25-11.39.38:465][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO_Auto3
+[2025.10.25-11.39.38:465][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SKCKQTQDTE8ZNW6C0FCBRO_Auto3016A7E2849832C0688537F8D6DFF4C1E.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO_Auto3.uasset'
+[2025.10.25-11.39.38:470][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H_Auto3
+[2025.10.25-11.39.38:471][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/OCR348BHEJWLHO72TR249H_Auto3A48DE77C49FB2FBBAF3D5E850D4759DB.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H_Auto3.uasset'
+[2025.10.25-11.39.38:475][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU_Auto3
+[2025.10.25-11.39.38:475][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/1F7R5WQFM2D9KH7A94JFBU_Auto313E215AD46E9B8EE3C0DA5BFAEA5BC57.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU_Auto3.uasset'
+[2025.10.25-11.39.38:481][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV_Auto3
+[2025.10.25-11.39.38:481][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Q8CQM512VVS7UZZW0KQRSV_Auto38F98A5604EA6D8687F09E7953595B6F8.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV_Auto3.uasset'
+[2025.10.25-11.39.38:486][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC_Auto3
+[2025.10.25-11.39.38:486][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/MGVQPE8M923OBBJLZBI1PC_Auto33E731D104F7120864A2EA1BE029FE706.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC_Auto3.uasset'
+[2025.10.25-11.39.38:491][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4_Auto3
+[2025.10.25-11.39.38:492][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/297QBXCKTP06G7NIHIULK4_Auto37081C6BC433AD9DAEEDCD19421BF622A.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4_Auto3.uasset'
+[2025.10.25-11.39.38:498][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF_Auto3
+[2025.10.25-11.39.38:498][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/6ZCCZ1F7ZO6DM3C8OLVGTF_Auto305A51C6C458B35AC2AE12AA374B2F0DA.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF_Auto3.uasset'
+[2025.10.25-11.39.38:514][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK_Auto3
+[2025.10.25-11.39.38:514][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/EPTYZCFZWXT7Z7XYKZ88XK_Auto3182060F4495110F525E001BBD632A53D.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK_Auto3.uasset'
+[2025.10.25-11.39.38:519][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L_Auto3
+[2025.10.25-11.39.38:519][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/395Y4QE4IIEWI3KSE3SB6L_Auto3913D9310409B861B10630E8CCADC5B7F.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L_Auto3.uasset'
+[2025.10.25-11.39.38:561][180]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.405
+[2025.10.25-11.39.38:561][180]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.405
+[2025.10.25-11.39.38:563][180]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-11.39.38:632][180]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.25-11.39.38:632][180]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-11.39.38:682][180]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3
+[2025.10.25-11.39.38:682][180]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacter_Auto360F8BE1D4841A9092CA1B689826D5ACF.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto3.uasset'
+[2025.10.25-11.39.38:706][180]LogFileHelpers: Auto-saving content packages took 0.143
+[2025.10.25-11.41.46:435][391]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.42.21:944][498]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3266.924561
+[2025.10.25-11.42.22:951][500]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.42.22:951][500]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3267.591553, Update Interval: 311.155121
+[2025.10.25-11.42.37:152][543]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.44.11:517][994]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.44.54:385][123]LogDerivedDataCache: C:/Users/BradP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.047 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.25-11.45.01:482][144]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.45.48:754][286]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.46.39:694][438]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.46.56:466][492]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.10.25-11.47.05:984][309]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.47.16:661][341]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.47.26:995][372]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.47.39:751][410]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.47.56:372][460]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.48.11:065][504]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.48.24:476][ 72]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.48.32:504][ 97]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3637.485107
+[2025.10.25-11.48.33:501][100]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.48.33:501][100]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3638.154297, Update Interval: 351.305878
+[2025.10.25-11.48.47:392][141]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.49.11:748][ 21]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.49.36:754][417]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.49.48:389][451]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2025.10.25-11.49.48:392][451]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.052
+[2025.10.25-11.49.48:393][451]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-11.49.48:431][451]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.25-11.49.48:431][451]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-11.49.48:465][451]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4
+[2025.10.25-11.49.48:466][451]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacter_Auto4A43ACD064D4AC98D781A59901A96B282.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto4.uasset'
+[2025.10.25-11.49.48:467][451]LogFileHelpers: Auto-saving content packages took 0.075
+[2025.10.25-11.49.56:826][477]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.51.54:024][715]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.52.07:566][756]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.52.32:316][830]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.52.45:043][868]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.52.59:798][912]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.53.17:019][964]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.53.27:894][996]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.55.01:761][650]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4026.747314
+[2025.10.25-11.55.01:937][665]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-11.55.01:937][665]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4026.907471, Update Interval: 349.811707
+[2025.10.25-11.55.16:557][376]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.55.32:770][425]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.55.51:336][480]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.56.01:824][512]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.56.16:311][555]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.56.32:112][602]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.56.42:674][634]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.56.57:079][677]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.57.08:812][712]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.57.22:472][753]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.57.37:346][885]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.58.48:211][978]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.59.13:349][376]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-11.59.59:589][ 72]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.00.02:894][ 85]LogBlueprint: Error: [AssetLog] D:\Unity\Projects\DinkGameJam2025\DinkGameJam2025\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2025.10.25-12.00.02:904][ 85]LogBlueprint: Error: [AssetLog] D:\Unity\Projects\DinkGameJam2025\DinkGameJam2025\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] The current value (ObjectTypeQuery1) of the ' Object Types ' pin is invalid: Array inputs (like 'Object Types') must have an input wired into them (try connecting a MakeArray node).
+[2025.10.25-12.00.03:143][ 85]LogUObjectHash: Compacting FUObjectHashTables data took   4.95ms
+[2025.10.25-12.00.35:992][497]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.10.25-12.00.35:997][497]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.066
+[2025.10.25-12.00.35:997][497]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-12.00.36:067][497]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.25-12.00.36:067][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-12.00.36:103][497]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5
+[2025.10.25-12.00.36:103][497]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacter_Auto5143E9ED744F694C808DDF4A48F716CC9.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto5.uasset'
+[2025.10.25-12.00.36:105][497]LogFileHelpers: Auto-saving content packages took 0.108
+[2025.10.25-12.01.22:868][242]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4407.872559
+[2025.10.25-12.01.23:034][254]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.01.23:034][254]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4408.025391, Update Interval: 346.713470
+[2025.10.25-12.01.26:375][420]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.01.52:153][ 36]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.02.02:459][ 67]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.02.24:312][132]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.03.07:181][847]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.03.17:241][877]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.03.27:874][909]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.03.42:437][953]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.03.52:533][983]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.04.04:805][ 20]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.04.20:106][474]LogBlueprint: Error: [AssetLog] D:\Unity\Projects\DinkGameJam2025\DinkGameJam2025\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2025.10.25-12.04.20:305][474]LogUObjectHash: Compacting FUObjectHashTables data took   4.39ms
+[2025.10.25-12.04.21:714][517]LogBlueprint: Error: [AssetLog] D:\Unity\Projects\DinkGameJam2025\DinkGameJam2025\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2025.10.25-12.04.21:921][517]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2025.10.25-12.04.23:196][547]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-12.04.23:235][547]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-12.04.23:293][547]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.25-12.04.23:294][547]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-12.04.23:340][547]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.25-12.04.23:342][547]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacter9DD35C14405F79EAE12FD7B3A7E1C50E.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.25-12.04.23:363][547]LogFileHelpers: InternalPromptForCheckoutAndSave took 167.220 ms (total: 2.64 sec)
+[2025.10.25-12.04.23:441][547]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-12.04.23:441][547]LogContentValidation: Enabled validators:
+[2025.10.25-12.04.23:441][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-12.04.23:441][547]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-12.04.23:441][547]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-12.04.23:441][547]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-12.04.23:441][547]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-12.04.23:442][547]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-12.04.23:442][547]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.25-12.05.13:193][491]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.05.37:854][565]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.05.48:775][597]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.06.11:382][665]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.06.38:093][745]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.07.00:723][813]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.07.15:287][857]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.07.37:834][924]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.07.58:818][987]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.08.01:893][997]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4806.895996
+[2025.10.25-12.08.02:894][  0]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.08.02:894][  0]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4807.559570, Update Interval: 314.676361
+[2025.10.25-12.08.15:992][ 38]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.08.36:511][100]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.09.01:381][174]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.09.11:364][204]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.09.33:596][271]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.09.44:482][303]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.10.00:600][351]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.10.16:363][399]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.10.30:996][442]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.10.46:163][488]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.10.58:411][525]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.11.11:112][632]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.11.21:866][664]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.11.37:618][711]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.12.01:356][782]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.12.20:633][840]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.12.34:479][882]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.13.03:475][836]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.13.18:302][880]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2025.10.25-12.13.18:310][880]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.097
+[2025.10.25-12.13.18:312][880]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-12.13.18:312][880]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-12.13.18:359][880]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6
+[2025.10.25-12.13.18:359][880]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacter_Auto6FE8B094543A167C4D3EAFF93C727B966.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter_Auto6.uasset'
+[2025.10.25-12.13.18:361][880]LogFileHelpers: Auto-saving content packages took 0.052
+[2025.10.25-12.13.25:584][902]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.13.39:054][942]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.13.47:728][968]LogBlueprint: Error: [AssetLog] D:\Unity\Projects\DinkGameJam2025\DinkGameJam2025\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2025.10.25-12.13.47:925][968]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2025.10.25-12.13.49:975][ 64]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5154.976562
+[2025.10.25-12.13.50:145][ 75]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.13.50:145][ 75]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5155.130371, Update Interval: 313.590515
+[2025.10.25-12.15.14:101][557]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.25-12.15.33:478][753]LogSlate: Window 'Color Picker' being destroyed
+[2025.10.25-12.15.39:036][ 55]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-12.15.39:051][ 55]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-12.15.39:051][ 55]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-12.15.39:086][ 55]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 35.155 ms (total: 74.885 ms)
+[2025.10.25-12.15.39:088][ 55]LogPlayLevel: [PlayLevel] Compiling BP_ThirdPersonCharacter before play...
+[2025.10.25-12.15.39:097][ 55]LogBlueprint: Error: [AssetLog] D:\Unity\Projects\DinkGameJam2025\DinkGameJam2025\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] Character.ArrowComponent is not blueprint visible (BlueprintReadOnly or BlueprintReadWrite). Please fix mark up or cease accessing as this will be made an error in a future release.  Get ArrowComponent
+[2025.10.25-12.15.39:367][ 55]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2025.10.25-12.15.39:371][ 55]LogPlayLevel: PlayLevel: Blueprint regeneration took 284 ms (1 blueprints)
+[2025.10.25-12.15.39:383][ 55]BlueprintLog: Warning: Blueprint failed to compile:  BP_ThirdPersonCharacter
+[2025.10.25-12.15.50:381][ 55]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2025.10.25-12.15.52:769][139]LogSlate: Window 'Message Log' being destroyed
+[2025.10.25-12.15.52:782][139]LogSlate: Window 'Message Log' being destroyed
+[2025.10.25-12.16.11:890][422]LogBlueprint: Error: [AssetLog] D:\Unity\Projects\DinkGameJam2025\DinkGameJam2025\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2025.10.25-12.16.12:028][422]LogUObjectHash: Compacting FUObjectHashTables data took   7.00ms
+[2025.10.25-12.16.13:520][531]LogBlueprint: Error: [AssetLog] D:\Unity\Projects\DinkGameJam2025\DinkGameJam2025\Content\ThirdPerson\Blueprints\BP_ThirdPersonCharacter.uasset: [Compiler] This blueprint (self) is not a SceneComponent, therefore ' Target ' must have a connection.
+[2025.10.25-12.16.13:638][531]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2025.10.25-12.16.21:071][146]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2025.10.25-12.16.22:686][252]LogUObjectHash: Compacting FUObjectHashTables data took   2.01ms
+[2025.10.25-12.16.25:843][372]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-12.16.25:854][372]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-12.16.25:854][372]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-12.16.25:856][372]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.900 ms (total: 76.785 ms)
+[2025.10.25-12.16.25:856][372]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-12.16.25:856][372]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-12.16.25:869][372]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.25-12.16.25:871][372]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.047 ms (total: 14.132 ms)
+[2025.10.25-12.16.25:871][372]LogPlayLevel: PIE: StaticDuplicateObject took: (0.014909s)
+[2025.10.25-12.16.25:871][372]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.015046s)
+[2025.10.25-12.16.25:913][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.10.25-12.16.25:917][372]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.25-12.16.25:920][372]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.25-12.16.25:921][372]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-12.16.25:921][372]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-12.16.25:921][372]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.25-12.16.25:923][372]LogWorldPartition: Display: WorldPartition initialize took 2.287 ms (total: 1.25 sec)
+[2025.10.25-12.16.25:923][372]LogPlayLevel: PIE: World Init took: (0.006165s)
+[2025.10.25-12.16.25:924][372]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2025.10.25-12.16.25:940][372]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.16.25:940][372]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.16.25:940][372]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.16.25:940][372]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.16.25:940][372]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.16.25:940][372]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.16.25:940][372]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.16.25:940][372]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.16.25:940][372]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.16.25:940][372]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.16.25:940][372]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.16.25:961][372]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.16.26:066][372]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G430 Gaming Headset)
+[2025.10.25-12.16.26:067][372]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.16.26:067][372]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.16.26:067][372]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.16.26:068][372]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=8
+[2025.10.25-12.16.26:068][372]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=8
+[2025.10.25-12.16.26:201][372]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=8
+[2025.10.25-12.16.26:201][372]LogInit: FAudioDevice initialized with ID 8.
+[2025.10.25-12.16.26:201][372]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=8
+[2025.10.25-12.16.26:201][372]LogAudio: Display: Audio Device (ID: 8) registered with world 'Lvl_ThirdPerson'.
+[2025.10.25-12.16.26:202][372]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.25-12.16.26:220][372]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.25-12.16.26:225][372]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.25-13.16.26
+[2025.10.25-12.16.26:226][372]LogWorld: Bringing up level for play took: 0.004534
+[2025.10.25-12.16.26:229][372]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2025.10.25-12.16.26:237][372]PIE: Server logged in
+[2025.10.25-12.16.26:241][372]PIE: Play in editor total start time 0.387 seconds.
+[2025.10.25-12.16.29:988][430]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.16.58:749][311]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SphereTraceSingleForObjects', from offset 1041
+[2025.10.25-12.16.58:750][311]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:InpActEvt_Melee_K2Node_InputActionEvent_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter
+
+[2025.10.25-12.17.02:599][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.17.02:599][311]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-12.17.02:599][311]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.17.02:601][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.17.02:601][311]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.25-12.17.02:603][311]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-12.17.02:612][311]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.17.02:661][311]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.17.02:661][311]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 8
+[2025.10.25-12.17.02:661][311]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=4
+[2025.10.25-12.17.02:664][311]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=8, StreamState=2
+[2025.10.25-12.17.02:714][311]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2025.10.25-12.17.02:750][312]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2025.10.25-12.17.05:287][495]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-12.17.05:335][495]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-12.17.05:369][495]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.25-12.17.05:369][495]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-12.17.05:405][495]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.25-12.17.05:406][495]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacter993961BB4AB86C044345FD9B213ED869.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.25-12.17.05:424][495]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.579 ms (total: 2.77 sec)
+[2025.10.25-12.17.05:505][495]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-12.17.05:505][495]LogContentValidation: Enabled validators:
+[2025.10.25-12.17.05:505][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-12.17.05:505][495]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-12.17.05:505][495]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-12.17.05:505][495]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-12.17.05:505][495]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-12.17.05:505][495]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-12.17.05:506][495]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.25-12.17.17:972][257]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.18.46:890][840]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.10.25-12.18.46:975][840]LogSlate: Window 'Editor Preferences' being destroyed
+[2025.10.25-12.19.00:092][233]LogSlate: External Image Picker: DecompressImage failed
+[2025.10.25-12.19.17:134][745]LogSlate: Window 'Project Settings' being destroyed
+[2025.10.25-12.19.24:863][796]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-12.19.25:423][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31
+[2025.10.25-12.19.25:426][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/UYSRPQ5SOYIFVLEQINPH319F63AF934CC1C4A694A93EA936B1EEC5.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset'
+[2025.10.25-12.19.25:456][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE
+[2025.10.25-12.19.25:457][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/2U2IE6JXO1320Q32RJQKSE841C1BA144A049D45FC5BBA1573C8031.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/MV/2U2IE6JXO1320Q32RJQKSE.uasset'
+[2025.10.25-12.19.25:469][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O
+[2025.10.25-12.19.25:471][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/DYUIEBPX2N8UFXT326WX2O804D5B4B4EEB25CC723166BDF6B483FF.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/2/TV/DYUIEBPX2N8UFXT326WX2O.uasset'
+[2025.10.25-12.19.25:547][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I
+[2025.10.25-12.19.25:548][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/3LNK9WKCBL4YVMWIBXQZ1I6F888F9346FDE886CDE7D19BB9109833.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/C5/3LNK9WKCBL4YVMWIBXQZ1I.uasset'
+[2025.10.25-12.19.25:569][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE
+[2025.10.25-12.19.25:572][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/XWEMBL7KZTNQP83W1KTMXE3D1A2C084061232F7CB90C8F7E2FB285.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/D3/XWEMBL7KZTNQP83W1KTMXE.uasset'
+[2025.10.25-12.19.25:584][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE
+[2025.10.25-12.19.25:586][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/L159AMTR83MORHTF2GEOKE754AE74543EE07C53042E08C370B4F13.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/E2/L159AMTR83MORHTF2GEOKE.uasset'
+[2025.10.25-12.19.25:598][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA
+[2025.10.25-12.19.25:599][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/I205QOSSXONYWBP69RVMVAB4B8D5B648C48157B42D309E44AD5DD6.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/CQ/I205QOSSXONYWBP69RVMVA.uasset'
+[2025.10.25-12.19.25:607][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX
+[2025.10.25-12.19.25:614][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BJR5SDQDQW7QDFFPNUUMNXF102E94E4170F1738C63D1B439F82C8B.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/9M/BJR5SDQDQW7QDFFPNUUMNX.uasset'
+[2025.10.25-12.19.25:699][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD
+[2025.10.25-12.19.25:701][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/77SUGCMHUBU5E7FP1DLCVD629118F74EBE0379BAA5D284A13E0DBE.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/G9/77SUGCMHUBU5E7FP1DLCVD.uasset'
+[2025.10.25-12.19.25:707][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7
+[2025.10.25-12.19.25:711][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/IHUOIGG1MW1YZY097JJ8O73C93716940F5521FB0BF0087528CFADF.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/O7/IHUOIGG1MW1YZY097JJ8O7.uasset'
+[2025.10.25-12.19.25:739][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I
+[2025.10.25-12.19.25:740][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/1OONKTGJMLVBN21M6JE59I8C1CB513437EDC12F816848FC4B43E28.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/0N/1OONKTGJMLVBN21M6JE59I.uasset'
+[2025.10.25-12.19.25:751][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI
+[2025.10.25-12.19.25:752][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/FHUVUALB8C8XRJ0PY9XXTIA9E268704DEB5099142A108EB01ABE08.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/WI/FHUVUALB8C8XRJ0PY9XXTI.uasset'
+[2025.10.25-12.19.25:767][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO
+[2025.10.25-12.19.25:769][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/SKCKQTQDTE8ZNW6C0FCBROA60A0CEB4A7A8AD8180E0BA97079FEE0.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/XH/SKCKQTQDTE8ZNW6C0FCBRO.uasset'
+[2025.10.25-12.19.25:778][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H
+[2025.10.25-12.19.25:778][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/OCR348BHEJWLHO72TR249HC66178704D8ABC2C798A52A572469A3C.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/EE/OCR348BHEJWLHO72TR249H.uasset'
+[2025.10.25-12.19.25:786][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU
+[2025.10.25-12.19.25:787][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/1F7R5WQFM2D9KH7A94JFBU4F51D6304E88F392FC46D8A8A81BA266.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/9/UM/1F7R5WQFM2D9KH7A94JFBU.uasset'
+[2025.10.25-12.19.25:796][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV
+[2025.10.25-12.19.25:799][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Q8CQM512VVS7UZZW0KQRSVAE9EFA414E2D92F0DC7F6C97BF644122.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/3J/Q8CQM512VVS7UZZW0KQRSV.uasset'
+[2025.10.25-12.19.25:806][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC
+[2025.10.25-12.19.25:807][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/MGVQPE8M923OBBJLZBI1PC6A56D5C745684C63DF8E80AC13278F9E.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/IP/MGVQPE8M923OBBJLZBI1PC.uasset'
+[2025.10.25-12.19.25:819][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4
+[2025.10.25-12.19.25:821][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/297QBXCKTP06G7NIHIULK4B09F73E443F23728BE53BF98F5A9D969.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/RX/297QBXCKTP06G7NIHIULK4.uasset'
+[2025.10.25-12.19.25:845][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF
+[2025.10.25-12.19.25:846][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/6ZCCZ1F7ZO6DM3C8OLVGTF811797414460986A41AC0EBE2B788A99.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/27/6ZCCZ1F7ZO6DM3C8OLVGTF.uasset'
+[2025.10.25-12.19.25:854][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK
+[2025.10.25-12.19.25:856][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/EPTYZCFZWXT7Z7XYKZ88XK5C92C90C41A19FD2D64F939AE7FD2000.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/13/EPTYZCFZWXT7Z7XYKZ88XK.uasset'
+[2025.10.25-12.19.25:864][796]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L
+[2025.10.25-12.19.25:865][796]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/395Y4QE4IIEWI3KSE3SB6L0AFA51F04864B27EB7A4EF8FC0AD4647.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/50/395Y4QE4IIEWI3KSE3SB6L.uasset'
+[2025.10.25-12.19.25:897][796]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.03 sec (total: 3.81 sec)
+[2025.10.25-12.19.26:474][796]LogContentValidation: Display: Starting to validate 21 assets
+[2025.10.25-12.19.26:474][796]LogContentValidation: Enabled validators:
+[2025.10.25-12.19.26:474][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-12.19.26:474][796]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-12.19.26:474][796]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-12.19.26:474][796]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-12.19.26:474][796]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-12.19.26:474][796]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-12.19.26:510][796]AssetCheck: /Game/ThirdPerson/Lvl_ThirdPerson Validating asset
+[2025.10.25-12.19.27:881][801]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.19.38:929][951]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.19.50:895][986]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2025.10.25-12.19.53:673][ 80]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-12.19.53:689][ 80]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-12.19.53:689][ 80]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-12.19.53:690][ 80]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 998 us (total: 77.784 ms)
+[2025.10.25-12.19.53:690][ 80]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-12.19.53:690][ 80]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-12.19.53:703][ 80]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.25-12.19.53:706][ 80]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.519 ms (total: 16.652 ms)
+[2025.10.25-12.19.53:706][ 80]LogPlayLevel: PIE: StaticDuplicateObject took: (0.015825s)
+[2025.10.25-12.19.53:706][ 80]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.015873s)
+[2025.10.25-12.19.53:770][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2025.10.25-12.19.53:776][ 80]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.25-12.19.53:781][ 80]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.25-12.19.53:781][ 80]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-12.19.53:781][ 80]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-12.19.53:781][ 80]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.25-12.19.53:784][ 80]LogWorldPartition: Display: WorldPartition initialize took 2.873 ms (total: 1.25 sec)
+[2025.10.25-12.19.53:784][ 80]LogPlayLevel: PIE: World Init took: (0.007840s)
+[2025.10.25-12.19.53:786][ 80]LogAudio: Display: Creating Audio Device:                 Id: 9, Scope: Unique, Realtime: True
+[2025.10.25-12.19.53:786][ 80]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.19.53:786][ 80]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.19.53:786][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.19.53:786][ 80]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.19.53:786][ 80]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.19.53:786][ 80]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.19.53:786][ 80]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.19.53:786][ 80]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.19.53:786][ 80]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.19.53:786][ 80]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.19.53:786][ 80]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.19.53:837][ 80]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.19.53:913][ 80]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G430 Gaming Headset)
+[2025.10.25-12.19.53:915][ 80]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.19.53:915][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.19.53:915][ 80]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.19.53:916][ 80]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=9
+[2025.10.25-12.19.53:916][ 80]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=9
+[2025.10.25-12.19.53:934][ 80]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=9
+[2025.10.25-12.19.53:934][ 80]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=9
+[2025.10.25-12.19.53:958][ 80]LogInit: FAudioDevice initialized with ID 9.
+[2025.10.25-12.19.53:958][ 80]LogAudio: Display: Audio Device (ID: 9) registered with world 'Lvl_ThirdPerson'.
+[2025.10.25-12.19.53:958][ 80]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.25-12.19.53:966][ 80]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.25-12.19.53:970][ 80]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.25-13.19.53
+[2025.10.25-12.19.53:971][ 80]LogWorld: Bringing up level for play took: 0.004499
+[2025.10.25-12.19.53:983][ 80]LogOnline: OSS: Created online subsystem instance for: :Context_13
+[2025.10.25-12.19.53:997][ 80]PIE: Server logged in
+[2025.10.25-12.19.54:001][ 80]PIE: Play in editor total start time 0.312 seconds.
+[2025.10.25-12.19.59:573][270]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5524.573730
+[2025.10.25-12.19.59:762][276]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.19.59:763][276]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5524.736816, Update Interval: 336.726593
+[2025.10.25-12.20.08:080][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.20.08:081][580]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-12.20.08:081][580]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.20.08:082][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.20.08:082][580]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.25-12.20.08:084][580]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-12.20.08:092][580]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.20.08:154][580]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-12.20.08:154][580]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 9
+[2025.10.25-12.20.08:154][580]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=4
+[2025.10.25-12.20.08:157][580]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=9, StreamState=2
+[2025.10.25-12.20.08:425][580]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.20.08:436][580]LogUObjectHash: Compacting FUObjectHashTables data took   4.77ms
+[2025.10.25-12.20.08:501][581]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2025.10.25-12.20.09:478][617]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-12.20.09:496][617]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-12.20.09:496][617]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-12.20.09:498][617]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.773 ms (total: 79.557 ms)
+[2025.10.25-12.20.09:498][617]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-12.20.09:499][617]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-12.20.09:514][617]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.25-12.20.09:517][617]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 3.802 ms (total: 20.455 ms)
+[2025.10.25-12.20.09:518][617]LogPlayLevel: PIE: StaticDuplicateObject took: (0.018936s)
+[2025.10.25-12.20.09:518][617]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.019007s)
+[2025.10.25-12.20.09:605][617]LogUObjectHash: Compacting FUObjectHashTables data took  28.48ms
+[2025.10.25-12.20.09:607][617]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.25-12.20.09:611][617]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.25-12.20.09:611][617]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-12.20.09:611][617]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-12.20.09:611][617]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.25-12.20.09:614][617]LogWorldPartition: Display: WorldPartition initialize took 3.601 ms (total: 1.25 sec)
+[2025.10.25-12.20.09:615][617]LogPlayLevel: PIE: World Init took: (0.007657s)
+[2025.10.25-12.20.09:616][617]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2025.10.25-12.20.09:616][617]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.20.09:616][617]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.20.09:616][617]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.20.09:616][617]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.20.09:616][617]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.20.09:617][617]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.20.09:617][617]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.20.09:617][617]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.20.09:617][617]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.20.09:617][617]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.20.09:617][617]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.20.09:619][617]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.20.09:691][617]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G430 Gaming Headset)
+[2025.10.25-12.20.09:691][617]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.20.09:691][617]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.20.09:691][617]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.20.09:692][617]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=10
+[2025.10.25-12.20.09:692][617]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=10
+[2025.10.25-12.20.09:697][617]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=10
+[2025.10.25-12.20.09:697][617]LogInit: FAudioDevice initialized with ID 10.
+[2025.10.25-12.20.09:697][617]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=10
+[2025.10.25-12.20.09:697][617]LogAudio: Display: Audio Device (ID: 10) registered with world 'Lvl_ThirdPerson'.
+[2025.10.25-12.20.09:697][617]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.25-12.20.09:704][617]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.25-12.20.09:712][617]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.25-13.20.09
+[2025.10.25-12.20.09:712][617]LogWorld: Bringing up level for play took: 0.006770
+[2025.10.25-12.20.09:718][617]LogOnline: OSS: Created online subsystem instance for: :Context_14
+[2025.10.25-12.20.09:725][617]PIE: Server logged in
+[2025.10.25-12.20.09:731][617]PIE: Play in editor total start time 0.235 seconds.
+[2025.10.25-12.20.11:824][686]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_SphereTraceSingleForObjects', from offset 1041
+[2025.10.25-12.20.11:824][686]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:InpActEvt_Melee_K2Node_InputActionEvent_0
+	Function /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter_C:ExecuteUbergraph_BP_ThirdPersonCharacter
+
+[2025.10.25-12.20.14:839][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.20.14:839][686]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-12.20.14:839][686]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.20.14:840][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.20.14:840][686]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.25-12.20.14:842][686]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-12.20.14:854][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.20.14:917][686]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.20.14:917][686]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 10
+[2025.10.25-12.20.14:918][686]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=4
+[2025.10.25-12.20.14:920][686]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=10, StreamState=2
+[2025.10.25-12.20.14:935][686]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2025.10.25-12.20.14:987][687]LogPlayLevel: Display: Destroying online subsystem :Context_14
+[2025.10.25-12.20.21:593][753]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.20.34:248][790]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.20.44:955][823]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.21.00:581][907]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.10.25-12.21.13:331][873]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter without an associated node. The blueprint breakpoint has been removed
+[2025.10.25-12.21.13:331][873]LogBlueprintDebug: Display: Encountered a blueprint breakpoint in /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter without an associated node. The blueprint breakpoint has been removed
+[2025.10.25-12.21.23:447][ 45]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.21.38:462][ 90]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.21.57:385][146]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.23.25:592][725]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.23.55:773][816]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
