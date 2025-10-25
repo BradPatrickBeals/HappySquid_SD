@@ -1813,3 +1813,11 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.25-13.13.36:382][742]LogAudio: Display: Audio Device unregistered from world 'Jam'.
 [2025.10.25-13.13.36:382][742]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
 [2025.10.25-13.13.36:395][742]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.25-13.13.36:464][742]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.25-13.13.37:126][742]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.25-13.13.37:147][742]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.25-13.13.37:170][742]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.10.25-13.13.37:395][742]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.25-13.13.37:559][742]LogExit: Preparing to exit.
+[2025.10.25-13.13.41:595][742]LogUObjectHash: Compacting FUObjectHashTables data took  27.98ms
+[2025.10.25-13.13.45:227][742]LogEditorDataStorage: Deinitializing
