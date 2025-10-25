@@ -2834,3 +2834,109 @@ Script call stack:
 [2025.10.25-12.21.57:385][146]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.10.25-12.23.25:592][725]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
 [2025.10.25-12.23.55:773][816]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.24.08:834][855]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.24.22:034][894]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.24.36:902][939]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.25.05:910][ 26]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.25.38:222][123]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.25.59:896][188]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.26.21:901][254]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.26.32:415][285]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5917.428223
+[2025.10.25-12.26.33:419][288]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.26.33:419][288]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5918.093262, Update Interval: 336.642365
+[2025.10.25-12.26.36:516][297]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.26.58:480][363]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.27.24:727][442]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.27.43:845][499]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.28.02:170][554]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.28.20:188][608]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-12.28.20:201][608]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-12.28.20:201][608]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-12.28.20:202][608]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.445 ms (total: 81.003 ms)
+[2025.10.25-12.28.20:208][608]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-12.28.20:209][608]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-12.28.20:218][608]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.25-12.28.20:221][608]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 2.118 ms (total: 22.573 ms)
+[2025.10.25-12.28.20:221][608]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012001s)
+[2025.10.25-12.28.20:221][608]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.012075s)
+[2025.10.25-12.28.20:303][608]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2025.10.25-12.28.20:309][608]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.25-12.28.20:311][608]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.25-12.28.20:311][608]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-12.28.20:312][608]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-12.28.20:312][608]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.25-12.28.20:314][608]LogWorldPartition: Display: WorldPartition initialize took 2.532 ms (total: 1.26 sec)
+[2025.10.25-12.28.20:314][608]LogPlayLevel: PIE: World Init took: (0.005461s)
+[2025.10.25-12.28.20:316][608]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2025.10.25-12.28.20:316][608]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-12.28.20:316][608]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-12.28.20:316][608]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-12.28.20:316][608]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-12.28.20:316][608]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-12.28.20:316][608]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-12.28.20:316][608]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-12.28.20:316][608]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-12.28.20:316][608]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-12.28.20:316][608]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-12.28.20:316][608]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-12.28.20:319][608]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-12.28.20:382][608]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G430 Gaming Headset)
+[2025.10.25-12.28.20:383][608]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-12.28.20:383][608]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-12.28.20:383][608]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-12.28.20:384][608]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2025.10.25-12.28.20:384][608]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2025.10.25-12.28.20:386][608]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2025.10.25-12.28.20:386][608]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2025.10.25-12.28.20:386][608]LogInit: FAudioDevice initialized with ID 11.
+[2025.10.25-12.28.20:386][608]LogAudio: Display: Audio Device (ID: 11) registered with world 'Lvl_ThirdPerson'.
+[2025.10.25-12.28.20:386][608]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.25-12.28.20:392][608]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.25-12.28.20:397][608]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.25-13.28.20
+[2025.10.25-12.28.20:397][608]LogWorld: Bringing up level for play took: 0.004859
+[2025.10.25-12.28.20:419][608]LogOnline: OSS: Created online subsystem instance for: :Context_15
+[2025.10.25-12.28.20:428][608]PIE: Server logged in
+[2025.10.25-12.28.20:431][608]PIE: Play in editor total start time 0.231 seconds.
+[2025.10.25-12.28.25:713][683]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=11
+[2025.10.25-12.28.50:154][823]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.29.06:690][872]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.29.21:311][916]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.29.37:585][965]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.29.51:759][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.29.51:759][158]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-12.29.51:759][158]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-12.29.51:761][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.29.51:761][158]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.25-12.29.51:762][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-12.29.51:771][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-12.29.51:814][158]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-12.29.51:814][158]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 11
+[2025.10.25-12.29.51:814][158]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=4
+[2025.10.25-12.29.51:818][158]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11, StreamState=2
+[2025.10.25-12.29.51:825][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-12.29.51:830][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2025.10.25-12.29.51:879][159]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2025.10.25-12.30.30:676][707]LogSlate: Window 'Pick Parent Class' being destroyed
+[2025.10.25-12.30.30:773][707]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2025.10.25-12.30.30:803][707]LogContentBrowser: Creating deferred item: NewBlueprint
+[2025.10.25-12.30.30:872][708]LogContentBrowser: Renaming the item being created (Deferred Item: NewBlueprint).
+[2025.10.25-12.30.36:920][933]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Enemy
+[2025.10.25-12.30.38:072][933]LogContentBrowser: End creating deferred item NewBlueprint
+[2025.10.25-12.30.52:153][603]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.31.13:058][639]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-12.31.13:111][639]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_Enemy] ([2] browsable assets)...
+[2025.10.25-12.31.13:111][639]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_Enemy]
+[2025.10.25-12.31.13:111][639]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPerson/Blueprints/BP_Enemy" FILE="../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_Enemy.uasset" SILENT=true
+[2025.10.25-12.31.13:172][639]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_Enemy
+[2025.10.25-12.31.13:172][639]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_Enemy6EA822C0416423730CBE368234636F5E.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_Enemy.uasset'
+[2025.10.25-12.31.13:873][639]LogFileHelpers: InternalPromptForCheckoutAndSave took 815.117 ms (total: 4.62 sec)
+[2025.10.25-12.31.14:294][639]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-12.31.14:294][639]LogContentValidation: Enabled validators:
+[2025.10.25-12.31.14:294][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-12.31.14:294][639]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-12.31.14:294][639]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-12.31.14:294][639]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-12.31.14:294][639]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-12.31.14:294][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-12.31.14:294][639]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Enemy Validating asset
+[2025.10.25-12.32.27:856][ 86]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
