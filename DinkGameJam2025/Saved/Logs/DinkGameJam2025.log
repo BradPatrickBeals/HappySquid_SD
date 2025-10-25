@@ -1340,3 +1340,24 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.10.25-15.32.23:120][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
 [2025.10.25-15.32.25:418][186]LogTedsSettings: UTedsSettingsEditorSubsystem::Deinitialize
 [2025.10.25-15.32.25:504][186]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.10.25-15.32.26:264][186]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.10.25-15.32.26:877][186]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-15.32.26:877][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-15.32.27:171][186]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-15.32.27:171][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-15.32.27:176][186]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-15.32.27:176][186]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-15.32.27:708][186]LogRuntimeTelemetry: Recording EnginePreExit events
+[2025.10.25-15.32.27:813][186]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.10.25-15.32.28:049][186]LogAnalytics: Display: [UEEditor.Rocket.Release] AnalyticsET::EndSession
+[2025.10.25-15.32.28:875][186]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.10.25-15.32.28:879][186]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.10.25-15.32.28:887][186]LogAudio: Display: Audio Device unregistered from world 'Jam'.
+[2025.10.25-15.32.28:999][186]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.10.25-15.32.29:193][186]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=4
+[2025.10.25-15.32.29:358][186]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1, StreamState=2
+[2025.10.25-15.32.30:037][186]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.10.25-15.32.30:051][186]LogAudio: Display: Audio Device Manager Shutdown
+[2025.10.25-15.32.30:154][186]LogWindowsTextInputMethodSystem: Activated input method: English (United Kingdom) - (Keyboard).
+[2025.10.25-15.32.30:489][186]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.10.25-15.32.30:591][186]LogExit: Preparing to exit.
