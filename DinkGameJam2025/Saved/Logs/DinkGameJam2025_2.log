@@ -2940,3 +2940,356 @@ Script call stack:
 [2025.10.25-12.31.14:294][639]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.10.25-12.31.14:294][639]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Enemy Validating asset
 [2025.10.25-12.32.27:856][ 86]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.32.46:599][142]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.32.57:990][176]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6302.980469
+[2025.10.25-12.32.59:000][179]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.32.59:000][180]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6303.667480, Update Interval: 331.040985
+[2025.10.25-12.33.09:455][211]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.34.14:486][703]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.34.33:153][759]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.34.49:536][808]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.35.02:343][847]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.35.17:030][891]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.35.35:010][945]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.35.49:576][988]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.36.19:378][ 78]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.36.36:957][130]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.36.50:436][171]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.37.04:664][213]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.37.15:838][247]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.37.26:579][279]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.37.55:710][366]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.38.05:826][397]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.38.22:791][447]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.38.37:328][491]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.38.57:561][551]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.39.18:002][612]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6682.986328
+[2025.10.25-12.39.18:987][615]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.39.18:988][615]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6683.634277, Update Interval: 307.383026
+[2025.10.25-12.39.26:803][639]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.39.43:147][688]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.40.02:770][747]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.40.14:237][781]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.40.26:843][819]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.40.54:742][902]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.41.27:603][  1]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.41.40:755][ 40]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.42.07:211][120]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.42.18:116][152]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.42.29:798][187]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.42.53:265][258]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.43.08:301][303]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.43.24:576][351]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.43.49:266][425]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.44.00:145][458]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.44.13:891][499]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.44.27:573][540]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.44.49:880][607]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.44.54:363][621]LogDerivedDataCache: C:/Users/BradP/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.000 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 0 files in 1 folders with total size 0 MiB.
+[2025.10.25-12.44.58:272][633]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7023.254395
+[2025.10.25-12.44.59:261][635]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.44.59:261][635]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7023.910156, Update Interval: 356.506226
+[2025.10.25-12.45.03:084][647]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.45.18:073][692]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.45.38:775][754]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.45.58:176][812]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.46.12:166][854]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.46.23:661][888]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.46.47:191][959]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.47.00:762][999]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.47.25:080][ 72]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.47.53:834][158]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.48.08:064][201]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.48.25:303][252]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.48.37:545][289]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.48.49:957][326]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.49.07:407][378]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.49.26:440][436]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.49.41:585][481]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.50.14:109][579]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.50.30:822][629]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.50.42:027][662]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.50.53:849][698]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.51.07:579][739]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.51.18:835][772]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.51.38:759][832]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.51.45:872][853]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7430.852539
+[2025.10.25-12.51.46:866][856]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.51.46:866][856]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7431.512207, Update Interval: 316.644806
+[2025.10.25-12.52.07:200][917]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.52.25:348][972]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.52.42:119][ 21]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.53.03:261][ 85]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.53.15:326][121]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.53.25:305][151]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.53.37:176][187]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.53.49:912][225]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.54.04:125][267]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.54.21:178][318]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.54.38:888][371]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.54.56:018][422]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.55.10:619][466]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.55.30:273][525]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.55.51:310][588]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.56.07:629][637]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.56.44:433][747]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.57.03:604][805]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.57.31:890][889]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.57.43:072][923]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.57.50:922][946]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 7795.911621
+[2025.10.25-12.57.51:921][949]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-12.57.51:926][950]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 7796.579590, Update Interval: 356.714996
+[2025.10.25-12.57.56:815][964]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.58.13:161][ 13]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-12.58.21:254][186]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2025.10.25-12.58.22:379][186]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.10.25-12.58.22:497][186]LogSlate: Took 0.082513 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.10.25-12.58.24:714][186]LogSlate: Window 'Delete Assets' being destroyed
+[2025.10.25-12.58.25:884][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.10.25-12.58.25:967][186]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2025.10.25-12.58.26:009][186]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2025.10.25-12.58.26:604][186]SourceControl: Error: Updated 0 paths from the index
+[2025.10.25-12.58.27:004][186]SourceControl: rm 'DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_Enemy.uasset'
+[2025.10.25-12.58.34:295][713]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter1
+[2025.10.25-12.58.34:395][713]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter1
+[2025.10.25-12.58.34:414][714]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter1).
+[2025.10.25-12.58.40:514][945]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter1 -> BP_Enemy
+[2025.10.25-12.58.41:135][945]SourceControl: Error: fatal: pathspec 'D:/Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_Enemy.uasset' did not match any files
+[2025.10.25-12.58.44:753][945]LogSlate: Window 'Message' being destroyed
+[2025.10.25-12.58.44:770][945]Message dialog closed, result: Ok, title: Message, text: Failed to revert package which was marked for delete.
+[2025.10.25-12.58.44:771][945]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter1
+[2025.10.25-12.58.48:692][274]LogContentBrowser: Deferred new asset file creation: BP_ThirdPersonCharacter1
+[2025.10.25-12.58.48:705][274]LogContentBrowser: Creating deferred item: BP_ThirdPersonCharacter1
+[2025.10.25-12.58.48:723][275]LogContentBrowser: Renaming the item being created (Deferred Item: BP_ThirdPersonCharacter1).
+[2025.10.25-12.58.58:251][632]LogContentBrowser: Attempting asset rename: BP_ThirdPersonCharacter1 -> BP_EnemyCharacter
+[2025.10.25-12.58.58:862][632]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2025.10.25-12.58.59:706][632]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-12.58.59:754][632]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_EnemyCharacter] ([2] browsable assets)...
+[2025.10.25-12.58.59:824][632]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_5
+[2025.10.25-12.58.59:983][632]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter]
+[2025.10.25-12.58.59:984][632]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_6
+[2025.10.25-12.59.00:039][632]OBJ SavePackage:     Rendered thumbnail for [BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter_C]
+[2025.10.25-12.59.00:039][632]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_EnemyCharacter]
+[2025.10.25-12.59.00:173][632]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_EnemyCharacter
+[2025.10.25-12.59.00:173][632]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_EnemyCharacter834FCB194DADE92AA8A3918D2AA7E6C0.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_EnemyCharacter.uasset'
+[2025.10.25-12.59.00:623][632]LogFileHelpers: InternalPromptForCheckoutAndSave took 918.020 ms (total: 5.54 sec)
+[2025.10.25-12.59.01:319][632]LogContentBrowser: End creating deferred item BP_ThirdPersonCharacter1
+[2025.10.25-12.59.01:371][632]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-12.59.01:371][632]LogContentValidation: Enabled validators:
+[2025.10.25-12.59.01:371][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-12.59.01:371][632]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-12.59.01:371][632]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-12.59.01:371][632]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-12.59.01:371][632]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-12.59.01:371][632]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-12.59.01:371][632]AssetCheck: /Game/ThirdPerson/Blueprints/BP_EnemyCharacter Validating asset
+[2025.10.25-13.00.18:785][551]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-13.00.18:796][551]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-13.00.18:796][551]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-13.00.18:797][551]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 1.021 ms (total: 82.025 ms)
+[2025.10.25-13.00.18:797][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2025.10.25-13.00.18:797][551]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-13.00.18:807][551]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.25-13.00.18:809][551]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.917 ms (total: 24.490 ms)
+[2025.10.25-13.00.18:809][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011560s)
+[2025.10.25-13.00.18:809][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.011607s)
+[2025.10.25-13.00.18:905][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.10.25-13.00.18:972][551]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.25-13.00.18:975][551]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.25-13.00.18:975][551]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-13.00.18:975][551]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-13.00.18:975][551]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.25-13.00.18:978][551]LogWorldPartition: Display: WorldPartition initialize took 2.363 ms (total: 1.26 sec)
+[2025.10.25-13.00.18:978][551]LogPlayLevel: PIE: World Init took: (0.005686s)
+[2025.10.25-13.00.18:979][551]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2025.10.25-13.00.18:979][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-13.00.18:979][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-13.00.18:979][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-13.00.18:979][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-13.00.18:979][551]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-13.00.18:979][551]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-13.00.18:979][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-13.00.18:979][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-13.00.18:979][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-13.00.18:979][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-13.00.18:979][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-13.00.18:982][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-13.00.19:049][551]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G430 Gaming Headset)
+[2025.10.25-13.00.19:050][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-13.00.19:050][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-13.00.19:050][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-13.00.19:052][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2025.10.25-13.00.19:052][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2025.10.25-13.00.19:054][551]LogInit: FAudioDevice initialized with ID 12.
+[2025.10.25-13.00.19:054][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2025.10.25-13.00.19:054][551]LogAudio: Display: Audio Device (ID: 12) registered with world 'Lvl_ThirdPerson'.
+[2025.10.25-13.00.19:054][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2025.10.25-13.00.19:054][551]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.25-13.00.19:060][551]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.25-13.00.19:065][551]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.25-14.00.19
+[2025.10.25-13.00.19:065][551]LogWorld: Bringing up level for play took: 0.005062
+[2025.10.25-13.00.19:069][551]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2025.10.25-13.00.19:077][551]PIE: Server logged in
+[2025.10.25-13.00.19:080][551]PIE: Play in editor total start time 0.284 seconds.
+[2025.10.25-13.00.30:362][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-13.00.30:363][947]LogWorld: BeginTearingDown for /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-13.00.30:363][947]LogWorld: UWorld::CleanupWorld for Lvl_ThirdPerson, bSessionEnded=true, bCleanupResources=true
+[2025.10.25-13.00.30:364][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-13.00.30:364][947]LogWorldPartition: UWorldPartition::Uninitialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson
+[2025.10.25-13.00.30:366][947]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2025.10.25-13.00.30:374][947]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.10.25-13.00.30:416][947]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2025.10.25-13.00.30:417][947]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 12
+[2025.10.25-13.00.30:417][947]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=4
+[2025.10.25-13.00.30:421][947]LogAudioMixer: Display: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12, StreamState=2
+[2025.10.25-13.00.30:429][947]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2025.10.25-13.00.30:434][947]LogUObjectHash: Compacting FUObjectHashTables data took   2.10ms
+[2025.10.25-13.00.30:560][948]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2025.10.25-13.01.13:433][812]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2025.10.25-13.01.14:736][895]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-13.01.14:791][895]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-13.01.14:859][895]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.25-13.01.14:859][895]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-13.01.14:893][895]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.25-13.01.14:895][895]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacter333841194107CA03709D07BBB6169F36.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.25-13.01.14:915][895]LogFileHelpers: InternalPromptForCheckoutAndSave took 180.155 ms (total: 5.72 sec)
+[2025.10.25-13.01.14:975][895]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-13.01.14:975][895]LogContentValidation: Enabled validators:
+[2025.10.25-13.01.14:975][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-13.01.14:975][895]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-13.01.14:975][895]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-13.01.14:975][895]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-13.01.14:975][895]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-13.01.14:975][895]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-13.01.14:976][895]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.25-13.01.21:118][119]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPerson/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter
+[2025.10.25-13.01.21:257][119]LogChaosDD: Not creating Chaos Debug Draw Scene for world World_7
+[2025.10.25-13.01.24:025][119]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.02.10:258][529]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.02.18:908][554]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2025.10.25-13.02.18:912][554]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPerson/Lvl_ThirdPerson' took 0.184
+[2025.10.25-13.02.18:913][554]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_EnemyCharacter] ([2] browsable assets)...
+[2025.10.25-13.02.18:985][554]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_EnemyCharacter.BP_EnemyCharacter]
+[2025.10.25-13.02.18:986][554]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_EnemyCharacter]
+[2025.10.25-13.02.19:006][554]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/ThirdPerson/Blueprints/BP_EnemyCharacter_Auto7
+[2025.10.25-13.02.19:006][554]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_EnemyCharacter_Auto7FFBE2AE742F1B8469B99C086A0A335E8.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/Autosaves/Game/ThirdPerson/Blueprints/BP_EnemyCharacter_Auto7.uasset'
+[2025.10.25-13.02.19:009][554]LogFileHelpers: Auto-saving content packages took 0.096
+[2025.10.25-13.02.26:888][579]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.02.39:436][616]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.02.53:524][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2025.10.25-13.03.26:758][189]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.04.14:622][216]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.04.39:140][418]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.04.44:534][600]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8209.536133
+[2025.10.25-13.04.44:709][614]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-13.04.44:709][614]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8209.694336, Update Interval: 312.420410
+[2025.10.25-13.04.59:496][264]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.05.15:718][313]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.05.32:546][363]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.05.43:952][397]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.06.02:827][454]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.06.18:405][501]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.06.32:862][544]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.06.50:654][597]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.07.01:504][630]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.07.25:978][703]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.07.41:223][748]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.07.51:997][780]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.08.06:119][823]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.08.16:124][853]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.08.33:358][904]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.08.56:904][975]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.09.07:678][  7]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.09.36:217][327]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.09.48:365][560]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.10.34:600][909]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 8559.609375
+[2025.10.25-13.10.34:781][919]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.10.25-13.10.34:781][920]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 8559.771484, Update Interval: 303.246552
+[2025.10.25-13.10.45:838][381]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.11.16:567][473]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
+[2025.10.25-13.12.42:749][ 73]LogUObjectHash: Compacting FUObjectHashTables data took   2.05ms
+[2025.10.25-13.12.43:706][110]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2025.10.25-13.12.50:758][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-13.12.50:811][486]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-13.12.50:836][486]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter]
+[2025.10.25-13.12.50:836][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-13.12.50:872][486]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.25-13.12.50:874][486]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacterD07DE8A940AAECC6F23BD1BCB6E170F9.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.25-13.12.50:894][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 136.460 ms (total: 5.86 sec)
+[2025.10.25-13.12.50:963][486]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-13.12.50:963][486]LogContentValidation: Enabled validators:
+[2025.10.25-13.12.50:963][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-13.12.50:963][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-13.12.50:963][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-13.12.50:963][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-13.12.50:963][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-13.12.50:963][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-13.12.50:963][486]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.25-13.12.52:405][542]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2025.10.25-13.12.52:417][542]LogContentBundle: [Lvl_ThirdPerson(Editor)] Generating Streaming for 0 Content Bundles.
+[2025.10.25-13.12.52:418][542]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' started...
+[2025.10.25-13.12.52:418][542]LogWorldPartition: Display: GenerateStreaming for 'Lvl_ThirdPerson' took 949 us (total: 82.974 ms)
+[2025.10.25-13.12.52:420][542]LogPlayLevel: [PlayLevel] Compiling BP_EnemyCharacter before play...
+[2025.10.25-13.12.52:975][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2025.10.25-13.12.52:979][542]LogPlayLevel: PlayLevel: Blueprint regeneration took 560 ms (1 blueprints)
+[2025.10.25-13.12.52:979][542]LogPlayLevel: Creating play world package: /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson
+[2025.10.25-13.12.52:988][542]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE started...
+[2025.10.25-13.12.52:990][542]LogWorldPartition: Display: UWorldPartition::PostDuplicatePIE took 1.785 ms (total: 26.275 ms)
+[2025.10.25-13.12.52:990][542]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010870s)
+[2025.10.25-13.12.52:990][542]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPerson/Lvl_ThirdPerson.Lvl_ThirdPerson to /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson (0.010930s)
+[2025.10.25-13.12.53:031][542]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2025.10.25-13.12.53:033][542]LogChaosDD: Creating Chaos Debug Draw Scene for world Lvl_ThirdPerson
+[2025.10.25-13.12.53:036][542]LogWorldPartition: ULevel::OnLevelLoaded(Lvl_ThirdPerson)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=1)
+[2025.10.25-13.12.53:036][542]LogWorldPartition: Display: WorldPartition initialize started...
+[2025.10.25-13.12.53:036][542]LogWorldPartition: UWorldPartition::Initialize : World = /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson, World Type = PIE, IsMainWorldPartition = 1, Location = V(0), Rotation = R(0), IsEditor = 0, IsGame = 0, IsPIEWorldTravel = 0, IsCooking = 0
+[2025.10.25-13.12.53:036][542]LogWorldPartition: UWorldPartition::Initialize Context : World NetMode = Standalone, IsServer = 0, IsDedicatedServer = 0, IsServerStreamingEnabled = 0, IsServerStreamingOutEnabled = 0, IsUsingMakingVisibleTransaction = 0, IsUsingMakingInvisibleTransaction = 0
+[2025.10.25-13.12.53:038][542]LogWorldPartition: Display: WorldPartition initialize took 2.173 ms (total: 1.26 sec)
+[2025.10.25-13.12.53:038][542]LogPlayLevel: PIE: World Init took: (0.004865s)
+[2025.10.25-13.12.53:039][542]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2025.10.25-13.12.53:039][542]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2025.10.25-13.12.53:039][542]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2025.10.25-13.12.53:040][542]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2025.10.25-13.12.53:040][542]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2025.10.25-13.12.53:040][542]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2025.10.25-13.12.53:040][542]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2025.10.25-13.12.53:040][542]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2025.10.25-13.12.53:040][542]LogAudio: Display: AudioDevice MaxSources: 32
+[2025.10.25-13.12.53:040][542]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2025.10.25-13.12.53:040][542]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2025.10.25-13.12.53:040][542]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2025.10.25-13.12.53:042][542]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2025.10.25-13.12.53:113][542]LogAudioMixer: Display: Using Audio Hardware Device Speakers (2- Logitech G430 Gaming Headset)
+[2025.10.25-13.12.53:113][542]LogAudioMixer: Display: Initializing Sound Submixes...
+[2025.10.25-13.12.53:113][542]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2025.10.25-13.12.53:113][542]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2025.10.25-13.12.53:114][542]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2025.10.25-13.12.53:114][542]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2025.10.25-13.12.53:118][542]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2025.10.25-13.12.53:118][542]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2025.10.25-13.12.53:118][542]LogInit: FAudioDevice initialized with ID 13.
+[2025.10.25-13.12.53:118][542]LogAudio: Display: Audio Device (ID: 13) registered with world 'Lvl_ThirdPerson'.
+[2025.10.25-13.12.53:119][542]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 13
+[2025.10.25-13.12.53:123][542]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2025.10.25-13.12.53:128][542]LogWorld: Bringing World /Game/ThirdPerson/UEDPIE_0_Lvl_ThirdPerson.Lvl_ThirdPerson up for play (max tick rate 0) at 2025.10.25-14.12.53
+[2025.10.25-13.12.53:128][542]LogWorld: Bringing up level for play took: 0.004363
+[2025.10.25-13.12.53:131][542]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2025.10.25-13.12.53:162][542]PIE: Server logged in
+[2025.10.25-13.12.53:165][542]PIE: Play in editor total start time 0.747 seconds.
+[2025.10.25-13.13.08:610][700]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=13
+[2025.10.25-13.13.20:022][734]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=13
+[2025.10.25-13.13.25:953][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.10.25-13.13.25:954][795]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter] ([2] browsable assets)...
+[2025.10.25-13.13.25:954][795]OBJ SavePackage: Finished generating thumbnails for package [/Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter]
+[2025.10.25-13.13.25:988][795]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2025.10.25-13.13.25:989][795]LogSavePackage: Moving '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Saved/BP_ThirdPersonCharacterD2E2DA594F461A4991E690A1D42DE5F3.tmp' to '../../../../../Unity/Projects/DinkGameJam2025/DinkGameJam2025/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2025.10.25-13.13.25:991][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 37.507 ms (total: 5.90 sec)
+[2025.10.25-13.13.25:993][795]LogContentValidation: Display: Starting to validate 1 assets
+[2025.10.25-13.13.25:993][795]LogContentValidation: Enabled validators:
+[2025.10.25-13.13.25:993][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.10.25-13.13.25:993][795]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.10.25-13.13.25:993][795]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.10.25-13.13.25:993][795]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.10.25-13.13.25:993][795]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.10.25-13.13.25:993][795]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.10.25-13.13.25:994][795]AssetCheck: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter Validating asset
+[2025.10.25-13.13.37:176][895]LogAudioMixer: Display: Audio Buffer Underrun (starvation) detected. InstanceID=1
