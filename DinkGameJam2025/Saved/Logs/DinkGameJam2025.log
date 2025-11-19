@@ -1815,3 +1815,78 @@ Script call stack:
 [2025.11.19-00.29.47:829][858]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.11.19-00.29.47:830][858]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.11.19-00.29.47:830][858]AssetCheck: /Game/ThirdPerson/Blueprints/BP_Spawner Validating asset
+[2025.11.19-00.32.17:312][386]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-00.32.17:374][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam" FILE="../../../../../../Projects/Unreal/DinkGameJam2025/DinkGameJam2025/Content/Jam.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.19-00.32.17:476][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2025.11.19-00.32.17:560][386]LogSavePackage: Moving output files for package: /Game/Jam
+[2025.11.19-00.32.17:560][386]LogSavePackage: Moving '../../../../../../Projects/Unreal/DinkGameJam2025/DinkGameJam2025/Saved/Jam28B8399543B2B04110823CA541E5D1F7.tmp' to '../../../../../../Projects/Unreal/DinkGameJam2025/DinkGameJam2025/Content/Jam.umap'
+[2025.11.19-00.32.17:733][386]LogFileHelpers: Saving map 'Jam' took 0.359
+[2025.11.19-00.32.17:747][386]LogFileHelpers: InternalPromptForCheckoutAndSave took 434.848 ms (total: 786.023 ms)
+[2025.11.19-00.32.17:797][386]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-00.32.17:797][386]LogContentValidation: Enabled validators:
+[2025.11.19-00.32.17:797][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-00.32.17:797][386]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-00.32.17:797][386]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-00.32.17:797][386]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-00.32.17:797][386]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-00.32.17:797][386]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-00.32.17:797][386]AssetCheck: /Game/Jam Validating asset
+[2025.11.19-00.32.21:893][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2025.11.19-00.32.22:233][554]LogSlate: Last resort fallback font was requested. Font: '<unknown>', Character: '<unknown>'
+[2025.11.19-00.32.22:283][554]LogSlate: Took 0.047990 seconds to synchronously load lazily loaded font '../../../Engine/Content/SlateDebug/Fonts/LastResort.ttf' (5269K)
+[2025.11.19-00.32.23:796][554]LogSlate: Window 'Delete Assets' being destroyed
+[2025.11.19-00.32.24:113][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.76ms
+[2025.11.19-00.32.24:168][554]LogUObjectHash: Compacting FUObjectHashTables data took   1.55ms
+[2025.11.19-00.32.24:205][554]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2025.11.19-00.32.25:797][616]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.25:797][616]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.25:798][616]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_7
+[2025.11.19-00.32.25:799][616]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_7
+[2025.11.19-00.32.26:810][655]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2025.11.19-00.32.26:812][655]LogEditorActor: Deleted 0 Actors (0.047 secs)
+[2025.11.19-00.32.27:003][665]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.27:003][665]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.27:004][665]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_8
+[2025.11.19-00.32.27:005][665]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_8
+[2025.11.19-00.32.28:611][734]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2025.11.19-00.32.28:612][734]LogEditorActor: Deleted 0 Actors (0.041 secs)
+[2025.11.19-00.32.28:617][734]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.28:617][734]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.28:619][734]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_9
+[2025.11.19-00.32.28:620][734]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_9
+[2025.11.19-00.32.34:704][ 20]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.34:704][ 20]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.34:705][ 20]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_10
+[2025.11.19-00.32.34:705][ 20]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_10
+[2025.11.19-00.32.35:805][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2025.11.19-00.32.35:807][ 69]LogEditorActor: Deleted 0 Actors (0.043 secs)
+[2025.11.19-00.32.35:812][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.35:812][ 69]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner_C
+[2025.11.19-00.32.35:814][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_11
+[2025.11.19-00.32.35:815][ 69]LogActorFactory: Actor Factory spawned Blueprint /Game/ThirdPerson/Blueprints/BP_Spawner.BP_Spawner as actor: BP_Spawner_C /Game/Jam.Jam:PersistentLevel.BP_Spawner_C_11
+[2025.11.19-00.32.49:764][720]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.11.19-00.32.49:815][720]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Jam" FILE="../../../../../../Projects/Unreal/DinkGameJam2025/DinkGameJam2025/Content/Jam.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2025.11.19-00.32.49:897][720]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2025.11.19-00.32.49:972][720]LogSavePackage: Moving output files for package: /Game/Jam
+[2025.11.19-00.32.49:972][720]LogSavePackage: Moving '../../../../../../Projects/Unreal/DinkGameJam2025/DinkGameJam2025/Saved/Jam0E1C929B415B662FDB473B81913EF50C.tmp' to '../../../../../../Projects/Unreal/DinkGameJam2025/DinkGameJam2025/Content/Jam.umap'
+[2025.11.19-00.32.49:996][720]LogFileHelpers: Saving map 'Jam' took 0.182
+[2025.11.19-00.32.50:010][720]LogFileHelpers: InternalPromptForCheckoutAndSave took 246.764 ms (total: 1.03 sec)
+[2025.11.19-00.32.50:048][720]LogContentValidation: Display: Starting to validate 1 assets
+[2025.11.19-00.32.50:048][720]LogContentValidation: Enabled validators:
+[2025.11.19-00.32.50:048][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.11.19-00.32.50:048][720]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.11.19-00.32.50:048][720]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.11.19-00.32.50:048][720]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.11.19-00.32.50:048][720]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.11.19-00.32.50:048][720]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.11.19-00.32.50:048][720]AssetCheck: /Game/Jam Validating asset
+[2025.11.19-00.32.51:420][785]LogSlate: Window 'Jam' being destroyed
+[2025.11.19-00.32.51:435][785]LogSlate: Window 'Jam' being destroyed
+[2025.11.19-00.32.51:637][785]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.11.19-00.32.51:637][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-00.32.52:006][785]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2025.11.19-00.32.52:006][785]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.11.19-00.32.52:290][785]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2025.11.19-00.33.27:045][ 12]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6573.680664
+[2025.11.19-00.33.28:044][ 15]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.11.19-00.33.28:044][ 15]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6574.329590, Update Interval: 314.842987
