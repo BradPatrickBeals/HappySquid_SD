@@ -95,7 +95,7 @@ DerivedDataCache/*
 # ============================================================
 # Unreal Engine — Specific Saved Paths (project-level)
 # ============================================================
-/HappySquid_SD/Saved/Logs/
-/HappySquid_SD/Saved/webcache*/
-/HappySquid_SD/Saved/
-/HappySquid_SD/Intermediate/
+/HappySquid_SD/Saved/Logs
+/HappySquid_SD/Saved/webcache*
+/HappySquid_SD/Saved
+/HappySquid_SD/Intermediate
