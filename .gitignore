@@ -105,3 +105,5 @@ DerivedDataCache/*
 HappySquid_SD/Intermediate/CachedAssetRegistry_0.bin
 HappySquid_SD/Intermediate/CachedAssetRegistryDiscovery.bin
 /HappySquid_SD/Intermediate/ShaderAutogen
+*.bin
+/HappySquid_SD/Intermediate
