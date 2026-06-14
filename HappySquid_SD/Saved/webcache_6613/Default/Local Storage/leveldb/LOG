@@ -1,3 +1,5 @@
-2026/06/13-15:02:30.709 6a3c Reusing MANIFEST C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/13-15:02:30.749 6a3c Recovering log #4
-2026/06/13-15:02:30.752 6a3c Reusing old log C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/06/14-13:01:26.406 5688 Reusing MANIFEST C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/14-13:01:26.438 5688 Recovering log #4
+2026/06/14-13:01:26.439 5688 Level-0 table #6: started
+2026/06/14-13:01:26.447 5688 Level-0 table #6: 67955 bytes OK
+2026/06/14-13:01:26.452 5688 Delete type=0 #4
