@@ -1,13 +1,8 @@
-2026/06/20-17:01:17.760 61c0 Reusing MANIFEST C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/20-17:01:17.793 61c0 Recovering log #10
-2026/06/20-17:01:17.793 61c0 Level-0 table #13: started
-2026/06/20-17:01:17.801 61c0 Level-0 table #13: 68692 bytes OK
-2026/06/20-17:01:17.805 61c0 Delete type=0 #10
-2026/06/20-17:01:17.806 454c Compacting 4@0 + 0@1 files
-2026/06/20-17:01:17.814 454c Generated table #15@0: 7 keys, 10912 bytes
-2026/06/20-17:01:17.814 454c Compacted 4@0 + 0@1 files => 10912 bytes
-2026/06/20-17:01:17.815 454c compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/06/20-17:01:17.816 454c Delete type=2 #3
-2026/06/20-17:01:17.816 454c Delete type=2 #6
-2026/06/20-17:01:17.816 454c Delete type=2 #11
-2026/06/20-17:01:17.816 454c Delete type=2 #13
+2026/06/22-16:06:36.898 77c Reusing MANIFEST C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/06/22-16:06:36.939 77c Recovering log #18
+2026/06/22-16:06:36.940 77c Level-0 table #17: started
+2026/06/22-16:06:36.947 77c Level-0 table #17: 70329 bytes OK
+2026/06/22-16:06:36.954 77c Recovering log #19
+2026/06/22-16:06:36.956 77c Reusing old log C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/000019.log 
+2026/06/22-16:06:36.958 77c Delete type=0 #18
+2026/06/22-16:06:36.958 77c Delete type=2 #20
