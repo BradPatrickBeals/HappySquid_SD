@@ -1,8 +1,22 @@
-[17976:30124:0625/225022.535:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17976:30124:0625/225022.678:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17976:33284:0625/225025.091:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17976:33284:0625/225025.099:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17976:33284:0625/225025.104:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17976:33284:0625/225025.107:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14820:25928:0625/225027.601:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6ADF9CBA0A1BB9EB5D2A2D62EC46B7E7 will be ignored
-[17976:30124:0625/231301.001:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[28264:27260:0626/111652.706:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[28264:27260:0626/111653.550:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[28264:10184:0626/111658.304:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28264:10184:0626/111658.307:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28264:10184:0626/111658.311:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[28264:10184:0626/111658.314:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[18880:30564:0626/111700.321:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4271A74B80F6E5E3E2E696D0113F6CEB will be ignored
+[28456:27512:0626/111700.581:ERROR:block_files.cc(114)] Failing CreateMapBlock
+[28456:27512:0626/111700.581:ERROR:entry_impl.cc(955)] Failed to save user data
+[28456:27512:0626/111701.239:ERROR:block_files.cc(114)] Failing CreateMapBlock
+[28456:27512:0626/111701.239:ERROR:entry_impl.cc(955)] Failed to save user data
+[28456:26840:0626/111702.336:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28456:26840:0626/111702.353:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28456:26840:0626/111715.752:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[28456:26840:0626/111724.557:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[28456:32696:0626/155337.440:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28264:20300:0626/155337.441:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28456:32696:0626/155342.444:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28264:10184:0626/155342.445:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28456:32696:0626/155352.447:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28264:10184:0626/155352.449:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
+[28264:27260:0626/171351.526:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
