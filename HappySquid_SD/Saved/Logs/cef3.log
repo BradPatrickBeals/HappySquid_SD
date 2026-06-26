@@ -1,115 +1,8 @@
-[17112:18700:0624/165025.578:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[17112:18700:0624/165025.644:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[17112:26472:0624/165028.263:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17112:26472:0624/165028.268:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17112:26472:0624/165028.272:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[17112:26472:0624/165028.277:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[14564:25236:0624/165029.164:WARNING:backend_impl.cc(1764)] Destroying invalid entry.
-[11152:31312:0624/165031.169:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-DEF51BFC3B50BB7BCCD622C7F9900D78 will be ignored
-[14564:25236:0624/165031.847:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[14564:25236:0624/165031.847:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[14564:25236:0624/165031.847:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[14564:25236:0624/165031.848:WARNING:backend_impl.cc(1543)] Messed up entry found.
-[14564:25236:0624/165031.848:ERROR:backend_impl.cc(989)] Critical error found -8
-[14564:25236:0624/165031.848:ERROR:entry_impl.cc(1029)] No file for c103007e
-[14564:25236:0624/165031.849:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.867:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.867:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.867:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.867:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.867:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.867:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.871:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.871:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.876:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.876:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.877:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.909:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.909:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.909:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.909:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.909:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.909:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.909:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.909:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.910:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.910:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.910:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.910:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.911:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.911:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.911:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.911:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.920:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.921:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.921:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.921:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.921:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.921:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.921:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.921:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.921:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.922:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.922:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.922:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.922:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.922:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.922:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.925:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.925:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.925:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.925:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.926:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.926:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.932:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.932:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.933:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.953:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.953:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.953:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.953:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.953:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.953:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.954:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.954:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.955:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.959:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.959:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.959:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.959:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.959:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.959:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.966:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.966:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.966:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.966:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.966:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.968:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.980:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.980:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.980:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.980:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.980:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.980:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.980:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.980:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.981:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.981:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.982:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.982:WARNING:storage_block-inl.h(138)] Failed data load.
-[14564:25236:0624/165031.983:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.983:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.983:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165031.983:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165032.000:ERROR:entry_impl.cc(955)] Failed to save user data
-[14564:25236:0624/165032.000:ERROR:entry_impl.cc(955)] Failed to save user data
-[17112:18700:0624/180958.220:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[17976:30124:0625/225022.535:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[17976:30124:0625/225022.678:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[17976:33284:0625/225025.091:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17976:33284:0625/225025.099:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17976:33284:0625/225025.104:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[17976:33284:0625/225025.107:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14820:25928:0625/225027.601:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-6ADF9CBA0A1BB9EB5D2A2D62EC46B7E7 will be ignored
+[17976:30124:0625/231301.001:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
