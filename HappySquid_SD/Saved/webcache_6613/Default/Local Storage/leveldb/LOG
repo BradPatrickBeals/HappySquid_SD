@@ -1,14 +1,2 @@
-2026/06/26-11:16:53.652 42ac Reusing MANIFEST C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/06/26-11:16:53.692 42ac Recovering log #29
-2026/06/26-11:16:53.693 42ac Level-0 table #31: started
-2026/06/26-11:16:53.701 42ac Level-0 table #31: 64950 bytes OK
-2026/06/26-11:16:53.705 42ac Delete type=0 #29
-2026/06/26-11:16:53.706 3234 Compacting 4@0 + 1@1 files
-2026/06/26-11:16:53.718 3234 Generated table #33@0: 7 keys, 16893 bytes
-2026/06/26-11:16:53.718 3234 Compacted 4@0 + 1@1 files => 16893 bytes
-2026/06/26-11:16:53.719 3234 compacted to: files[ 0 1 0 0 0 0 0 ]
-2026/06/26-11:16:53.720 3234 Delete type=2 #15
-2026/06/26-11:16:53.720 3234 Delete type=2 #17
-2026/06/26-11:16:53.720 3234 Delete type=2 #21
-2026/06/26-11:16:53.720 3234 Delete type=2 #28
-2026/06/26-11:16:53.720 3234 Delete type=2 #31
+2026/07/03-14:51:39.339 5110 Creating DB C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
+2026/07/03-14:51:39.359 5110 Reusing MANIFEST C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001

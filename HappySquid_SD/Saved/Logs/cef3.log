@@ -1,22 +1,70 @@
-[28264:27260:0626/111652.706:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[28264:27260:0626/111653.550:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[28264:10184:0626/111658.304:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28264:10184:0626/111658.307:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28264:10184:0626/111658.311:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[28264:10184:0626/111658.314:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[18880:30564:0626/111700.321:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-4271A74B80F6E5E3E2E696D0113F6CEB will be ignored
-[28456:27512:0626/111700.581:ERROR:block_files.cc(114)] Failing CreateMapBlock
-[28456:27512:0626/111700.581:ERROR:entry_impl.cc(955)] Failed to save user data
-[28456:27512:0626/111701.239:ERROR:block_files.cc(114)] Failing CreateMapBlock
-[28456:27512:0626/111701.239:ERROR:entry_impl.cc(955)] Failed to save user data
-[28456:26840:0626/111702.336:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[28456:26840:0626/111702.353:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[28456:26840:0626/111715.752:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[28456:26840:0626/111724.557:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[28456:32696:0626/155337.440:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28264:20300:0626/155337.441:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28456:32696:0626/155342.444:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28264:10184:0626/155342.445:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28456:32696:0626/155352.447:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28264:10184:0626/155352.449:WARNING:dns_config_service_win.cc(605)] Failed to read DnsConfig.
-[28264:27260:0626/171351.526:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[14764:20204:0703/145138.360:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[14764:20204:0703/145139.193:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[14764:20384:0703/145144.250:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14764:20384:0703/145144.254:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14764:20384:0703/145144.257:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[14764:20384:0703/145144.260:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[13744:20536:0703/145145.941:ERROR:backend_impl.cc(989)] Critical error found -8
+[13744:20536:0703/145145.941:ERROR:entry_impl.cc(1029)] No file for b2020020
+[13744:20536:0703/145145.941:WARNING:storage_block-inl.h(138)] Failed data load.
+[8688:4020:0703/145147.263:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-2A797AAAE0E55A0800B242ED6C3F96DF will be ignored
+[19108:8340:0703/145149.064:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19108:18352:0703/145149.124:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19108:18352:0703/145149.125:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[19108:18352:0703/145149.126:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13744:13616:0703/145149.288:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[13744:13616:0703/145149.288:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[13744:13616:0703/145149.288:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[13744:13616:0703/145149.306:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[13744:13616:0703/145149.306:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[19108:18352:0703/145149.306:WARNING:stun_port.cc(442)] Port[1091000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13744:13616:0703/145149.306:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[13744:13616:0703/145149.306:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[13744:13616:0703/145149.307:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[19108:18352:0703/145149.307:WARNING:stun_port.cc(442)] Port[1091800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[13744:13616:0703/145149.307:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[13744:13616:0703/145149.307:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[13744:13616:0703/145149.307:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[13744:13616:0703/145149.307:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[19108:18352:0703/145149.307:WARNING:stun_port.cc(442)] Port[1092000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19108:18352:0703/145149.307:WARNING:stun_port.cc(442)] Port[1091000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19108:18352:0703/145149.307:WARNING:stun_port.cc(442)] Port[1091800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19108:18352:0703/145149.307:WARNING:stun_port.cc(442)] Port[1092000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19108:18352:0703/145149.307:WARNING:stun_port.cc(442)] Port[1091000:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19108:18352:0703/145149.307:WARNING:stun_port.cc(442)] Port[1091800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[19108:18352:0703/145149.307:WARNING:stun_port.cc(442)] Port[1092000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[14764:8100:0703/145150.601:WARNING:browser_info.cc(345)] Returning a speculative frame for [7,9]
+[14764:20204:0703/145150.929:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[14764:20204:0703/145150.929:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[14764:20204:0703/145150.929:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[14764:20204:0703/145150.929:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[14764:8100:0703/145150.940:WARNING:browser_info.cc(345)] Returning a speculative frame for [9,9]
+[17336:14396:0703/145152.929:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17336:19952:0703/145152.989:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17336:19952:0703/145152.989:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[17336:19952:0703/145152.990:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[13744:13616:0703/145153.611:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[13744:13616:0703/145153.611:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[13744:13616:0703/145153.611:WARNING:host_resolver_dns_task.cc(863)] Address list empty after RFC3484 sort
+[13744:13616:0703/145153.611:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[13744:13616:0703/145153.611:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[13744:13616:0703/145153.611:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.l.google.com., errorcode: -105
+[13744:13616:0703/145153.611:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[13744:13616:0703/145153.611:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[13744:13616:0703/145153.611:ERROR:socket_manager.cc(147)] Failed to resolve address for stun.cloudflare.com., errorcode: -105
+[13744:13616:0703/145153.611:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[13744:13616:0703/145153.611:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[13744:13616:0703/145153.611:ERROR:socket_manager.cc(147)] Failed to resolve address for stun1.l.google.com., errorcode: -105
+[17336:19952:0703/145153.611:WARNING:stun_port.cc(442)] Port[127fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17336:19952:0703/145153.611:WARNING:stun_port.cc(442)] Port[18e0800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17336:19952:0703/145153.611:WARNING:stun_port.cc(442)] Port[18e1000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17336:19952:0703/145153.611:WARNING:stun_port.cc(442)] Port[127fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17336:19952:0703/145153.611:WARNING:stun_port.cc(442)] Port[18e0800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17336:19952:0703/145153.611:WARNING:stun_port.cc(442)] Port[18e1000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17336:19952:0703/145153.611:WARNING:stun_port.cc(442)] Port[127fc00:0:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17336:19952:0703/145153.611:WARNING:stun_port.cc(442)] Port[18e0800:1:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17336:19952:0703/145153.611:WARNING:stun_port.cc(442)] Port[18e1000:2:1:0:host:Net[any:0:0:0:x:x:x:x:x/0:Wildcard:id=0]]: StunPort: stun host lookup received error -1
+[17336:14396:0703/145157.611:WARNING:codec.cc(525)] Explicitly added H264 constrained baseline to list of supported formats.
+[15684:12372:0703/145409.670:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[15684:12372:0703/145409.670:ERROR:shared_image_manager.cc(224)] SharedImageManager::ProduceSkia: Trying to Produce a Skia representation from a non-existent mailbox.
+[14764:20204:0703/151023.838:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
