@@ -1,3 +1,5 @@
-2026/07/17-09:26:17.380 4e98 Reusing MANIFEST C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/07/17-09:26:17.386 4e98 Recovering log #4
-2026/07/17-09:26:17.390 4e98 Reusing old log C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/07/17-21:34:43.933 89c Reusing MANIFEST C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/07/17-21:34:43.947 89c Recovering log #4
+2026/07/17-21:34:43.947 89c Level-0 table #6: started
+2026/07/17-21:34:43.953 89c Level-0 table #6: 64526 bytes OK
+2026/07/17-21:34:43.958 89c Delete type=0 #4
