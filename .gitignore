@@ -108,3 +108,11 @@ HappySquid_SD/Intermediate/CachedAssetRegistryDiscovery.bin
 *.bin
 /HappySquid_SD/Intermediate
 /HappySquid_SD/Saved/AutoScreenshot.png
+
+# Cache files
+HappySquid_SD/Intermediate/
+HappySquid_SD/Saved/Logs/
+HappySquid_SD/Saved/Config/WindowsEditor/
+
+# Ignore all web browser and UI caches
+HappySquid_SD/Saved/webcache_6613/
