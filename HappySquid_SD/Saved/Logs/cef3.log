@@ -1,13 +1,21 @@
-[20196:23832:0808/145036.127:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
-[20196:23832:0808/145037.006:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
-[20196:33820:0808/145042.321:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20196:33820:0808/145042.325:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20196:33820:0808/145042.329:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20196:33820:0808/145042.333:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
-[20196:23832:0808/145046.245:ERROR:device_event_log_impl.cc(196)] [14:50:45.579] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
-[7580:30456:0808/145046.921:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-42BDD1DDB329FACF3A74DF966D50C18E will be ignored
-[22696:24340:0808/145647.706:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[22696:24340:0808/145648.405:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[22696:24340:0808/145659.711:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
-[22696:24340:0808/145711.715:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
-[20196:23832:0808/162650.996:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
+[26772:22592:0831/143021.189:WARNING:chrome_main_delegate.cc(745)] This is Chrome version 128.0.6613.138 (not a warning)
+[26772:22592:0831/143021.306:WARNING:account_consistency_mode_manager.cc(77)] Desktop Identity Consistency cannot be enabled as no OAuth client ID and client secret have been configured.
+[26772:10204:0831/143024.022:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26772:25636:0831/143024.027:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26772:25636:0831/143024.032:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[26772:25636:0831/143024.037:WARNING:leveldb_database.cc(141)] Unable to open C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata: IO error: C:\Users\marti\Desktop\HappySquid\HappySquid_SD\Saved\webcache_6613\Default\shared_proto_db\metadata/MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[16476:21024:0831/143024.561:ERROR:backend_impl.cc(989)] Critical error found -8
+[16476:21024:0831/143025.522:WARNING:storage_block-inl.h(138)] Failed data load.
+[16476:21024:0831/143025.522:WARNING:storage_block-inl.h(138)] Failed data load.
+[16476:21024:0831/143025.523:ERROR:entry_impl.cc(955)] Failed to save user data
+[20140:16508:0831/143025.897:WARNING:frame_impl.cc(430)] virtual CefFrameImpl::SendProcessMessage sent to detached frame 5-04D0591021E8BFF0B18E7BD6B777F82C will be ignored
+[26772:22592:0831/143029.892:ERROR:device_event_log_impl.cc(196)] [14:30:29.885] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26772:22592:0831/152451.662:ERROR:device_event_log_impl.cc(196)] [15:24:51.428] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26772:22592:0831/152453.324:ERROR:device_event_log_impl.cc(196)] [15:24:53.136] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26772:22592:0831/152454.322:ERROR:device_event_log_impl.cc(196)] [15:24:54.014] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Element not found. (0x490)
+[26772:22592:0831/152454.322:ERROR:device_event_log_impl.cc(196)] [15:24:54.155] USB: usb_service_win.cc:308 SetupDiEnumDeviceInterfaces: No more data is available. (0x103)
+[16476:8836:0831/155628.122:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[16476:8836:0831/155628.158:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[16476:8836:0831/155636.351:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -107
+[16476:8836:0831/155645.788:ERROR:ssl_client_socket_impl.cc(882)] handshake failed; returned -1, SSL error code 1, net_error -100
+[26772:22592:0831/172938.226:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
