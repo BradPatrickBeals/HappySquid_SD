@@ -84,35 +84,24 @@ Build/*/**
 !Build/**/*.ico
 
 # ============================================================
-# Unreal Engine — Editor & Runtime Generated Files
+# Unreal Engine — Editor & Runtime Generated Files (generic)
 # ============================================================
 *_BuiltData.uasset
 Saved/*
 Intermediate/*
 Plugins/**/Intermediate/*
 DerivedDataCache/*
-
-# ============================================================
-# Unreal Engine — Specific Saved Paths (project-level)
-# ============================================================
-/HappySquid_SD/Saved/Logs
-/HappySquid_SD/Saved/webcache*
-/HappySquid_SD/Saved
-/HappySquid_SD/Intermediate
-/HappySquid_SD/Saved/webcache_6613
-/HappySquid_SD/Saved/Logs
-/HappySquid_SD/Saved/Config
-HappySquid_SD/Intermediate/CachedAssetRegistry_0.bin
-HappySquid_SD/Intermediate/CachedAssetRegistryDiscovery.bin
-/HappySquid_SD/Intermediate/ShaderAutogen
 *.bin
-/HappySquid_SD/Intermediate
+
+# ============================================================
+# Unreal Engine — Project-specific Saved/Intermediate paths
+# ============================================================
+/HappySquid_SD/Saved/
+/HappySquid_SD/Intermediate/
+/HappySquid_SD/Saved/Logs/
+/HappySquid_SD/Saved/Config/WindowsEditor/
+/HappySquid_SD/Saved/webcache_6613/
 /HappySquid_SD/Saved/AutoScreenshot.png
-
-# Cache files
-HappySquid_SD/Intermediate/
-HappySquid_SD/Saved/Logs/
-HappySquid_SD/Saved/Config/WindowsEditor/
-
-# Ignore all web browser and UI caches
-HappySquid_SD/Saved/webcache_6613/
+/HappySquid_SD/Intermediate/CachedAssetRegistry_0.bin
+/HappySquid_SD/Intermediate/CachedAssetRegistryDiscovery.bin
+/HappySquid_SD/Intermediate/ShaderAutogen/
