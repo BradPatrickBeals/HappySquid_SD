@@ -17,9 +17,7 @@
 *.mov filter=lfs diff=lfs merge=lfs -text
 *.fbx filter=lfs diff=lfs merge=lfs -text
 *.abc filter=lfs diff=lfs merge=lfs -text
-# --- Unreal Engine specific binary formats ---
-*.uplugin filter=lfs diff=lfs merge=lfs -text
-*.uproject filter=lfs diff=lfs merge=lfs -text
+
 # --- Prevent Git from trying to diff/merge binary files ---
 *.uasset binary
 *.umap   binary
@@ -27,6 +25,7 @@
 *.wav    binary
 *.mp4    binary
 *.mov    binary
+
 # --- Text files (force consistent line endings) ---
 *.cpp text eol=lf
 *.h   text eol=lf
@@ -35,3 +34,5 @@
 *.txt text eol=lf
 *.json text eol=lf
 *.shader text eol=lf
+*.uproject text eol=lf
+*.uplugin  text eol=lf

@@ -84,26 +84,11 @@ Build/*/**
 !Build/**/*.ico
 
 # ============================================================
-# Unreal Engine — Editor & Runtime Generated Files
+# Unreal Engine — Editor & Runtime Generated Files (generic)
 # ============================================================
 *_BuiltData.uasset
-Saved/*
-Intermediate/*
-Plugins/**/Intermediate/*
-DerivedDataCache/*
-
-# ============================================================
-# Unreal Engine — Specific Saved Paths (project-level)
-# ============================================================
-/HappySquid_SD/Saved/Logs
-/HappySquid_SD/Saved/webcache*
-/HappySquid_SD/Saved
-/HappySquid_SD/Intermediate
-/HappySquid_SD/Saved/webcache_6613
-/HappySquid_SD/Saved/Logs
-/HappySquid_SD/Saved/Config
-HappySquid_SD/Intermediate/CachedAssetRegistry_0.bin
-HappySquid_SD/Intermediate/CachedAssetRegistryDiscovery.bin
-/HappySquid_SD/Intermediate/ShaderAutogen
+Saved/
+Intermediate/
+Plugins/**/Intermediate/
+DerivedDataCache/
 *.bin
-/HappySquid_SD/Intermediate
