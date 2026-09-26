@@ -1,17 +1,18 @@
+.DS_Store
+*~
+*.swp
+.git/
+*.log
+
 # ============================================================
 # Visual Studio
 # ============================================================
 .vs/
 *.suo
-*.sln.docstates
-*.user
-*.userosscache
-*.sln.ide
 *.opensdf
 *.sdf
 *.VC.db
 *.VC.opendb
-.vsconfig
 
 # ============================================================
 # Compiled Object Files
@@ -32,7 +33,6 @@
 # ============================================================
 *.so
 *.dylib
-*.dll
 
 # ============================================================
 # Fortran Module Files
@@ -69,12 +69,6 @@ SourceArt/**/*.png
 SourceArt/**/*.tga
 
 # ============================================================
-# Unreal Engine — Binaries
-# ============================================================
-Binaries/*
-Plugins/**/Binaries/*
-
-# ============================================================
 # Unreal Engine — Builds
 # ============================================================
 Build/*
@@ -87,24 +81,13 @@ Build/*/**
 # Unreal Engine — Editor & Runtime Generated Files
 # ============================================================
 *_BuiltData.uasset
-Saved/*
-Intermediate/*
-Plugins/**/Intermediate/*
-DerivedDataCache/*
+Saved/
+Intermediate/
+Plugins/*/Intermediate/
+DerivedDataCache/
+WritePermissions.*.temp
 
 # ============================================================
-# Unreal Engine — Specific Saved Paths (project-level)
+# Don't ignore anything in the Content directory
 # ============================================================
-/HappySquid_SD/Saved/Logs
-/HappySquid_SD/Saved/webcache*
-/HappySquid_SD/Saved
-/HappySquid_SD/Intermediate
-/HappySquid_SD/Saved/webcache_6613
-/HappySquid_SD/Saved/Logs
-/HappySquid_SD/Saved/Config
-HappySquid_SD/Intermediate/CachedAssetRegistry_0.bin
-HappySquid_SD/Intermediate/CachedAssetRegistryDiscovery.bin
-/HappySquid_SD/Intermediate/ShaderAutogen
-*.bin
-/HappySquid_SD/Intermediate
-/HappySquid_SD/Saved/AutoScreenshot.png
+!Content/**
